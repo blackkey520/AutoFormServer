@@ -1,0 +1,316 @@
+2018-06-02 16:06:08,016 ERROR 54948 [-/::1/-/6ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/lib/application.js:321:37)
+    at Object.get cookies [as cookies] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-override@3.0.0@koa-override/index.js:13:70)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at bodyParser (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 54948
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-02 16:06:11,625 ERROR 54948 [-/::1/-/1ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/lib/application.js:321:37)
+    at Object.get cookies [as cookies] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-override@3.0.0@koa-override/index.js:13:70)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at bodyParser (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 54948
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-02 16:06:22,639 ERROR 54948 [-/::1/-/0ms GET /news] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/lib/application.js:321:37)
+    at Object.get cookies [as cookies] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-override@3.0.0@koa-override/index.js:13:70)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at bodyParser (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 54948
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-02 16:07:35,262 ERROR 54948 [-/::1/-/0ms GET /news] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/lib/application.js:321:37)
+    at Object.get cookies [as cookies] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg@2.8.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-override@3.0.0@koa-override/index.js:13:70)
+    at dispatch (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at bodyParser (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 54948
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-02 23:26:21,888 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 6488228ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-02 23:50:22,974 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1440324ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 00:11:06,610 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222655ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 00:31:50,360 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1223076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 00:52:33,839 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222648ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 01:13:17,858 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1223424ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 01:34:01,580 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222303ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 01:54:43,737 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 02:15:25,896 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 02:36:11,014 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1223807ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 02:56:53,110 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 03:17:36,472 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222783ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 03:38:19,920 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222460ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 03:59:03,258 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221862ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 04:19:44,767 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1220707ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 04:40:27,144 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 05:01:10,369 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222780ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 05:21:53,386 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1222382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 05:42:37,923 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221967ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 06:03:19,393 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1220003ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 06:24:01,864 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 1221733ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 06:39:17,660 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 894371ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 10:33:37,052 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 14058535ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-03 12:16:15,157 ERROR 56496 nodejs.ClusterClientNoResponseError: client no response in 2107174ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 56496
+hostname: NeilyoLeedeMacBook-Pro.local
+

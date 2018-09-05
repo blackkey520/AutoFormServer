@@ -1,0 +1,22 @@
+2018-06-03 16:12:08,713 INFO 56659 [egg-logrotator] app logger reload: got log-reload message
+2018-06-03 20:41:00,913 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 22:29:33,423 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 23:24:21,835 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 23:28:45,665 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-03 23:28:45,665 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 23:33:09,221 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 23:38:33,318 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-03 23:42:37,854 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 03:26:10,466 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 05:17:23,919 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 07:08:13,302 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 08:39:56,450 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 08:39:56,455 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 09:12:38,520 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 09:48:56,578 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 10:24:16,753 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 10:30:11,612 INFO 56659 [egg-logrotator] clean all log before 31 days
+2018-06-04 10:30:11,612 INFO 56659 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js execute succeed, used 4ms
+2018-06-04 10:30:12,609 INFO 56659 [egg-logrotator] broadcast log-reload
+2018-06-04 10:30:12,610 INFO 56659 [egg-logrotator] rotate files success by DayRotator, files ["/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/common-error.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/common-error.log.2018-06-03","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/AutoFormServer-web.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/AutoFormServer-web.log.2018-06-03","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-web.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-web.log.2018-06-03","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-schedule.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-schedule.log.2018-06-03","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-agent.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-agent.log.2018-06-03"]
+2018-06-04 10:30:12,610 INFO 56659 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 3ms

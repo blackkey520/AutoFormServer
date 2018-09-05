@@ -1,0 +1,10 @@
+2018-06-04 10:30:11,608 INFO 56659 [152807941160525700744897753] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js task received by app
+2018-06-04 10:30:11,608 INFO 56659 [152807941160525700744897753] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js executing by app
+2018-06-04 10:30:11,612 INFO 56659 [152807941160525700744897753] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js execute succeed, used 4ms
+2018-06-04 10:30:11,605 INFO 56496 [152807941160525700744897753] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-06-04 10:30:11,613 INFO 56496 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-05 00:00:00.000
+2018-06-04 10:30:12,606 INFO 56496 [152807941260525700845132841] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-06-04 10:30:12,609 INFO 56496 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-05 00:00:01.000
+2018-06-04 10:30:12,607 INFO 56659 [152807941260525700845132841] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-06-04 10:30:12,607 INFO 56659 [152807941260525700845132841] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-06-04 10:30:12,610 INFO 56659 [152807941260525700845132841] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 3ms

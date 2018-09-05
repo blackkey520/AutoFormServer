@@ -1,0 +1,10 @@
+2018-06-05 15:09:48,246 INFO 56659 [1528182588228305595455377449] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js task received by app
+2018-06-05 15:09:48,246 INFO 56659 [1528182588228305595455377449] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js executing by app
+2018-06-05 15:09:48,269 INFO 56659 [1528182588228305595455377449] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js execute succeed, used 22ms
+2018-06-05 15:09:48,228 INFO 56496 [1528182588228305595455377449] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-06-05 15:09:48,261 INFO 56496 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-06 00:00:00.000
+2018-06-05 15:09:49,222 INFO 56496 [1528182589222305596449445333] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-06-05 15:09:49,225 INFO 56496 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-06 00:00:01.000
+2018-06-05 15:09:49,230 INFO 56659 [1528182589222305596449445333] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-06-05 15:09:49,231 INFO 56659 [1528182589222305596449445333] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-06-05 15:09:49,235 INFO 56659 [1528182589222305596449445333] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms

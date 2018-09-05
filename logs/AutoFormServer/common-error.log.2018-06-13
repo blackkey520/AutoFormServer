@@ -1,0 +1,179 @@
+2018-06-13 12:42:22,313 ERROR 30672 nodejs.EIOError: write EIO (uncaughtException throw 1 times on pid:30672)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:835:14)
+errno: 'EIO'
+code: 'EIO'
+syscall: 'write'
+name: 'EIOError'
+pid: 30672
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 12:42:22,296 ERROR 27908 nodejs.ClusterClientNoResponseError: client no response in 1943669ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 27908
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 15:30:15,044 ERROR 34073 nodejs.ClusterClientNoResponseError: client no response in 63664ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 34073
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 16:20:35,873 ERROR 34073 nodejs.ClusterClientNoResponseError: client no response in 181727ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 34073
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 19:42:13,843 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 737137ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 20:36:14,311 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 3240461ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-13 21:12:58,229 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 2203913ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 00:18:12,301 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 6491281ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 02:06:27,851 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 6494061ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 03:54:45,017 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 6496717ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 05:30:00,716 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 5715428ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 05:50:47,868 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1226747ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 06:11:32,846 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1224356ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 06:32:15,573 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1222239ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 06:53:01,068 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1224993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 07:13:44,247 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1222751ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 07:31:03,027 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 1018346ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+
+2018-06-14 09:01:49,150 ERROR 38324 nodejs.ClusterClientNoResponseError: client no response in 5445781ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: 'ClusterClientNoResponseError'
+pid: 38324
+hostname: NeilyoLeedeMacBook-Pro.local
+

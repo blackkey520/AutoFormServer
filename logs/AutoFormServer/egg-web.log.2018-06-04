@@ -1,0 +1,46 @@
+2018-06-04 10:30:12,611 INFO 56659 [egg-logrotator] app logger reload: got log-reload message
+2018-06-04 10:53:01,920 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 12:44:21,263 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 14:37:41,360 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 16:11:41,493 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 18:07:59,011 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 19:10:45,537 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 20:05:01,421 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 21:02:42,932 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 21:02:42,932 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 21:23:23,504 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 21:23:23,505 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 21:43:42,868 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 22:04:22,158 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 22:04:22,158 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 22:30:29,620 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 22:30:29,648 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 22:51:14,526 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 22:51:14,670 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 23:12:17,917 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-04 23:12:17,946 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-04 23:32:59,442 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 00:33:57,907 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 01:34:16,477 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 01:34:16,481 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 02:34:36,597 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 02:34:36,600 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 03:34:56,533 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 03:34:56,537 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 04:35:15,630 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 04:35:15,635 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 05:35:36,902 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 05:35:37,108 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 06:35:55,425 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 06:35:55,441 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 07:10:53,494 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 07:10:53,501 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 08:34:32,601 WARN 56659 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-06-05 08:34:32,603 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 11:36:55,973 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 13:08:17,992 WARN 56659 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-06-05 15:09:48,268 INFO 56659 [egg-logrotator] clean all log before 31 days
+2018-06-05 15:09:48,269 INFO 56659 [-/127.0.0.1/-/23ms SCHEDULE /__schedule?path=/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js execute succeed, used 22ms
+2018-06-05 15:09:49,234 INFO 56659 [egg-logrotator] broadcast log-reload
+2018-06-05 15:09:49,235 INFO 56659 [egg-logrotator] rotate files success by DayRotator, files ["/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/common-error.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/common-error.log.2018-06-04","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/AutoFormServer-web.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/AutoFormServer-web.log.2018-06-04","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-web.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-web.log.2018-06-04","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-schedule.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-schedule.log.2018-06-04","/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-agent.log -> /Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer/egg-agent.log.2018-06-04"]
+2018-06-05 15:09:49,235 INFO 56659 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=/Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms
