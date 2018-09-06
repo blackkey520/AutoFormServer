@@ -6,9 +6,6 @@ class HomeController extends Controller {
   async index() {
     await this.ctx.render('index.tpl', {});
   }
-  async homepage() {
-    await this.ctx.render('home/index.tpl', {});
-  }
 }
 
 module.exports = HomeController;

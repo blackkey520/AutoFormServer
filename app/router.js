@@ -5,6 +5,6 @@
  * @param {Egg.Application} app - egg application
  */
 module.exports = app => {
-  require('./router/web')(app);
-  require('./router/api')(app);
+  require('./router/autoformapi')(app);
+  require('./router/baseapi')(app);
 };

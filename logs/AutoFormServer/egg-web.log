@@ -1,1 +1,1100 @@
 2018-06-14 13:23:31,980 INFO 38360 [egg-logrotator] app logger reload: got log-reload message
+2018-09-06 18:37:45,303 INFO 16096 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 18:37:45,344 INFO 16096 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 18:37:45,344 INFO 16096 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 18:37:45,807 INFO 16096 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 18:37:45,811 INFO 16096 [egg-security] use csrf middleware
+2018-09-06 18:37:45,813 INFO 16096 [egg-security] use methodnoallow middleware
+2018-09-06 18:37:45,813 INFO 16096 [egg-security] use noopen middleware
+2018-09-06 18:37:45,814 INFO 16096 [egg-security] use nosniff middleware
+2018-09-06 18:37:45,815 INFO 16096 [egg-security] use xssProtection middleware
+2018-09-06 18:37:45,816 INFO 16096 [egg-security] use xframe middleware
+2018-09-06 18:37:45,816 INFO 16096 [egg-security] use dta middleware
+2018-09-06 18:37:45,816 INFO 16096 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 18:37:45,840 INFO 16096 [egg:core] dump config after load, 12ms
+2018-09-06 18:37:45,877 INFO 16096 [egg-watcher:app] watcher start success
+2018-09-06 18:37:45,910 INFO 16096 [egg:core] dump config after ready, 8ms
+2018-09-06 18:38:00,867 INFO 16096 [egg-view-nunjucks] loading templates from ["E:\\AutoForm\\AutoFormServer\\app\\view"]
+2018-09-06 18:41:10,524 INFO 7380 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 18:41:10,566 INFO 7380 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 18:41:10,566 INFO 7380 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 18:41:11,124 INFO 7380 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 18:41:11,131 INFO 7380 [egg-security] use csrf middleware
+2018-09-06 18:41:11,133 INFO 7380 [egg-security] use methodnoallow middleware
+2018-09-06 18:41:11,133 INFO 7380 [egg-security] use noopen middleware
+2018-09-06 18:41:11,135 INFO 7380 [egg-security] use nosniff middleware
+2018-09-06 18:41:11,136 INFO 7380 [egg-security] use xssProtection middleware
+2018-09-06 18:41:11,136 INFO 7380 [egg-security] use xframe middleware
+2018-09-06 18:41:11,137 INFO 7380 [egg-security] use dta middleware
+2018-09-06 18:41:11,137 INFO 7380 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 18:41:11,164 INFO 7380 [egg:core] dump config after load, 12ms
+2018-09-06 18:41:11,226 INFO 7380 [egg-watcher:app] watcher start success
+2018-09-06 18:41:11,268 INFO 7380 [egg:core] dump config after ready, 13ms
+2018-09-06 18:41:25,479 INFO 7380 [egg-view-nunjucks] loading templates from ["E:\\AutoForm\\AutoFormServer\\app\\view"]
+2018-09-06 19:02:30,541 INFO 12404 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:02:30,593 INFO 12404 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:02:30,593 INFO 12404 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:02:31,153 INFO 12404 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:02:31,158 INFO 12404 [egg-security] use csrf middleware
+2018-09-06 19:02:31,160 INFO 12404 [egg-security] use methodnoallow middleware
+2018-09-06 19:02:31,160 INFO 12404 [egg-security] use noopen middleware
+2018-09-06 19:02:31,162 INFO 12404 [egg-security] use nosniff middleware
+2018-09-06 19:02:31,162 INFO 12404 [egg-security] use xssProtection middleware
+2018-09-06 19:02:31,163 INFO 12404 [egg-security] use xframe middleware
+2018-09-06 19:02:31,163 INFO 12404 [egg-security] use dta middleware
+2018-09-06 19:02:31,163 INFO 12404 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:02:31,184 INFO 12404 [egg:core] dump config after load, 7ms
+2018-09-06 19:02:31,229 INFO 12404 [egg-watcher:app] watcher start success
+2018-09-06 19:02:31,261 INFO 12404 [egg:core] dump config after ready, 8ms
+2018-09-06 19:02:46,488 INFO 15720 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:02:46,529 INFO 15720 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:02:46,529 INFO 15720 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:02:46,996 INFO 15720 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:02:47,002 INFO 15720 [egg-security] use csrf middleware
+2018-09-06 19:02:47,004 INFO 15720 [egg-security] use methodnoallow middleware
+2018-09-06 19:02:47,004 INFO 15720 [egg-security] use noopen middleware
+2018-09-06 19:02:47,005 INFO 15720 [egg-security] use nosniff middleware
+2018-09-06 19:02:47,006 INFO 15720 [egg-security] use xssProtection middleware
+2018-09-06 19:02:47,006 INFO 15720 [egg-security] use xframe middleware
+2018-09-06 19:02:47,007 INFO 15720 [egg-security] use dta middleware
+2018-09-06 19:02:47,007 INFO 15720 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:02:47,029 INFO 15720 [egg:core] dump config after load, 9ms
+2018-09-06 19:02:47,092 INFO 15720 [egg-watcher:app] watcher start success
+2018-09-06 19:02:47,133 INFO 15720 [egg:core] dump config after ready, 8ms
+2018-09-06 19:02:54,124 INFO 15128 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:02:54,166 INFO 15128 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:02:54,166 INFO 15128 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:02:54,614 INFO 15128 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:02:54,618 INFO 15128 [egg-security] use csrf middleware
+2018-09-06 19:02:54,620 INFO 15128 [egg-security] use methodnoallow middleware
+2018-09-06 19:02:54,621 INFO 15128 [egg-security] use noopen middleware
+2018-09-06 19:02:54,622 INFO 15128 [egg-security] use nosniff middleware
+2018-09-06 19:02:54,623 INFO 15128 [egg-security] use xssProtection middleware
+2018-09-06 19:02:54,624 INFO 15128 [egg-security] use xframe middleware
+2018-09-06 19:02:54,624 INFO 15128 [egg-security] use dta middleware
+2018-09-06 19:02:54,624 INFO 15128 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:02:54,650 INFO 15128 [egg:core] dump config after load, 12ms
+2018-09-06 19:02:54,708 INFO 15128 [egg-watcher:app] watcher start success
+2018-09-06 19:02:54,740 INFO 15128 [egg:core] dump config after ready, 9ms
+2018-09-06 19:03:02,643 INFO 1444 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:02,684 INFO 1444 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:02,684 INFO 1444 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:03,137 INFO 1444 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:03,143 INFO 1444 [egg-security] use csrf middleware
+2018-09-06 19:03:03,145 INFO 1444 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:03,145 INFO 1444 [egg-security] use noopen middleware
+2018-09-06 19:03:03,148 INFO 1444 [egg-security] use nosniff middleware
+2018-09-06 19:03:03,149 INFO 1444 [egg-security] use xssProtection middleware
+2018-09-06 19:03:03,150 INFO 1444 [egg-security] use xframe middleware
+2018-09-06 19:03:03,151 INFO 1444 [egg-security] use dta middleware
+2018-09-06 19:03:03,151 INFO 1444 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:03,179 INFO 1444 [egg:core] dump config after load, 6ms
+2018-09-06 19:03:03,217 INFO 1444 [egg-watcher:app] watcher start success
+2018-09-06 19:03:03,248 INFO 1444 [egg:core] dump config after ready, 7ms
+2018-09-06 19:03:05,373 INFO 6100 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:05,421 INFO 6100 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:05,421 INFO 6100 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:05,897 INFO 6100 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:05,902 INFO 6100 [egg-security] use csrf middleware
+2018-09-06 19:03:05,903 INFO 6100 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:05,904 INFO 6100 [egg-security] use noopen middleware
+2018-09-06 19:03:05,905 INFO 6100 [egg-security] use nosniff middleware
+2018-09-06 19:03:05,906 INFO 6100 [egg-security] use xssProtection middleware
+2018-09-06 19:03:05,906 INFO 6100 [egg-security] use xframe middleware
+2018-09-06 19:03:05,907 INFO 6100 [egg-security] use dta middleware
+2018-09-06 19:03:05,907 INFO 6100 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:05,925 INFO 6100 [egg:core] dump config after load, 7ms
+2018-09-06 19:03:05,973 INFO 6100 [egg-watcher:app] watcher start success
+2018-09-06 19:03:06,006 INFO 6100 [egg:core] dump config after ready, 8ms
+2018-09-06 19:03:12,271 INFO 9968 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:12,313 INFO 9968 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:12,313 INFO 9968 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:12,835 INFO 9968 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:12,839 INFO 9968 [egg-security] use csrf middleware
+2018-09-06 19:03:12,841 INFO 9968 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:12,841 INFO 9968 [egg-security] use noopen middleware
+2018-09-06 19:03:12,843 INFO 9968 [egg-security] use nosniff middleware
+2018-09-06 19:03:12,843 INFO 9968 [egg-security] use xssProtection middleware
+2018-09-06 19:03:12,844 INFO 9968 [egg-security] use xframe middleware
+2018-09-06 19:03:12,844 INFO 9968 [egg-security] use dta middleware
+2018-09-06 19:03:12,844 INFO 9968 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:12,867 INFO 9968 [egg:core] dump config after load, 7ms
+2018-09-06 19:03:12,904 INFO 9968 [egg-watcher:app] watcher start success
+2018-09-06 19:03:12,937 INFO 9968 [egg:core] dump config after ready, 8ms
+2018-09-06 19:03:35,224 INFO 4064 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:35,264 INFO 4064 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:35,265 INFO 4064 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:35,715 INFO 4064 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:35,720 INFO 4064 [egg-security] use csrf middleware
+2018-09-06 19:03:35,722 INFO 4064 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:35,722 INFO 4064 [egg-security] use noopen middleware
+2018-09-06 19:03:35,724 INFO 4064 [egg-security] use nosniff middleware
+2018-09-06 19:03:35,724 INFO 4064 [egg-security] use xssProtection middleware
+2018-09-06 19:03:35,725 INFO 4064 [egg-security] use xframe middleware
+2018-09-06 19:03:35,725 INFO 4064 [egg-security] use dta middleware
+2018-09-06 19:03:35,725 INFO 4064 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:35,744 INFO 4064 [egg:core] dump config after load, 7ms
+2018-09-06 19:03:35,796 INFO 4064 [egg-watcher:app] watcher start success
+2018-09-06 19:03:35,827 INFO 4064 [egg:core] dump config after ready, 7ms
+2018-09-06 19:03:41,312 INFO 7248 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:41,354 INFO 7248 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:41,354 INFO 7248 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:41,819 INFO 7248 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:41,823 INFO 7248 [egg-security] use csrf middleware
+2018-09-06 19:03:41,825 INFO 7248 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:41,825 INFO 7248 [egg-security] use noopen middleware
+2018-09-06 19:03:41,827 INFO 7248 [egg-security] use nosniff middleware
+2018-09-06 19:03:41,827 INFO 7248 [egg-security] use xssProtection middleware
+2018-09-06 19:03:41,828 INFO 7248 [egg-security] use xframe middleware
+2018-09-06 19:03:41,828 INFO 7248 [egg-security] use dta middleware
+2018-09-06 19:03:41,828 INFO 7248 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:41,847 INFO 7248 [egg:core] dump config after load, 8ms
+2018-09-06 19:03:41,894 INFO 7248 [egg-watcher:app] watcher start success
+2018-09-06 19:03:41,925 INFO 7248 [egg:core] dump config after ready, 7ms
+2018-09-06 19:03:57,945 INFO 6068 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:57,986 INFO 6068 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:57,986 INFO 6068 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:03:58,438 INFO 6068 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:03:58,442 INFO 6068 [egg-security] use csrf middleware
+2018-09-06 19:03:58,443 INFO 6068 [egg-security] use methodnoallow middleware
+2018-09-06 19:03:58,444 INFO 6068 [egg-security] use noopen middleware
+2018-09-06 19:03:58,445 INFO 6068 [egg-security] use nosniff middleware
+2018-09-06 19:03:58,446 INFO 6068 [egg-security] use xssProtection middleware
+2018-09-06 19:03:58,447 INFO 6068 [egg-security] use xframe middleware
+2018-09-06 19:03:58,448 INFO 6068 [egg-security] use dta middleware
+2018-09-06 19:03:58,448 INFO 6068 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:03:58,467 INFO 6068 [egg:core] dump config after load, 8ms
+2018-09-06 19:03:58,516 INFO 6068 [egg-watcher:app] watcher start success
+2018-09-06 19:03:58,549 INFO 6068 [egg:core] dump config after ready, 8ms
+2018-09-06 19:03:59,628 INFO 7768 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:03:59,682 INFO 7768 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:03:59,682 INFO 7768 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:04:00,373 INFO 7768 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:04:00,378 INFO 7768 [egg-security] use csrf middleware
+2018-09-06 19:04:00,379 INFO 7768 [egg-security] use methodnoallow middleware
+2018-09-06 19:04:00,380 INFO 7768 [egg-security] use noopen middleware
+2018-09-06 19:04:00,381 INFO 7768 [egg-security] use nosniff middleware
+2018-09-06 19:04:00,382 INFO 7768 [egg-security] use xssProtection middleware
+2018-09-06 19:04:00,382 INFO 7768 [egg-security] use xframe middleware
+2018-09-06 19:04:00,383 INFO 7768 [egg-security] use dta middleware
+2018-09-06 19:04:00,383 INFO 7768 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:04:00,402 INFO 7768 [egg:core] dump config after load, 7ms
+2018-09-06 19:04:00,448 INFO 7768 [egg-watcher:app] watcher start success
+2018-09-06 19:04:00,479 INFO 7768 [egg:core] dump config after ready, 8ms
+2018-09-06 19:04:47,131 INFO 15168 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:04:47,181 INFO 15168 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:04:47,181 INFO 15168 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:04:47,658 INFO 15168 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:04:47,662 INFO 15168 [egg-security] use csrf middleware
+2018-09-06 19:04:47,664 INFO 15168 [egg-security] use methodnoallow middleware
+2018-09-06 19:04:47,664 INFO 15168 [egg-security] use noopen middleware
+2018-09-06 19:04:47,665 INFO 15168 [egg-security] use nosniff middleware
+2018-09-06 19:04:47,666 INFO 15168 [egg-security] use xssProtection middleware
+2018-09-06 19:04:47,666 INFO 15168 [egg-security] use xframe middleware
+2018-09-06 19:04:47,667 INFO 15168 [egg-security] use dta middleware
+2018-09-06 19:04:47,667 INFO 15168 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:04:47,686 INFO 15168 [egg:core] dump config after load, 7ms
+2018-09-06 19:04:47,732 INFO 15168 [egg-watcher:app] watcher start success
+2018-09-06 19:04:47,766 INFO 15168 [egg:core] dump config after ready, 9ms
+2018-09-06 19:04:52,116 INFO 108 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:04:52,160 INFO 108 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:04:52,160 INFO 108 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:04:52,624 INFO 108 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:04:52,629 INFO 108 [egg-security] use csrf middleware
+2018-09-06 19:04:52,631 INFO 108 [egg-security] use methodnoallow middleware
+2018-09-06 19:04:52,631 INFO 108 [egg-security] use noopen middleware
+2018-09-06 19:04:52,633 INFO 108 [egg-security] use nosniff middleware
+2018-09-06 19:04:52,633 INFO 108 [egg-security] use xssProtection middleware
+2018-09-06 19:04:52,634 INFO 108 [egg-security] use xframe middleware
+2018-09-06 19:04:52,634 INFO 108 [egg-security] use dta middleware
+2018-09-06 19:04:52,634 INFO 108 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:04:52,653 INFO 108 [egg:core] dump config after load, 6ms
+2018-09-06 19:04:52,696 INFO 108 [egg-watcher:app] watcher start success
+2018-09-06 19:04:52,729 INFO 108 [egg:core] dump config after ready, 8ms
+2018-09-06 19:05:19,216 INFO 16064 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:19,258 INFO 16064 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:19,258 INFO 16064 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:19,708 INFO 16064 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:19,712 INFO 16064 [egg-security] use csrf middleware
+2018-09-06 19:05:19,713 INFO 16064 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:19,714 INFO 16064 [egg-security] use noopen middleware
+2018-09-06 19:05:19,715 INFO 16064 [egg-security] use nosniff middleware
+2018-09-06 19:05:19,715 INFO 16064 [egg-security] use xssProtection middleware
+2018-09-06 19:05:19,716 INFO 16064 [egg-security] use xframe middleware
+2018-09-06 19:05:19,717 INFO 16064 [egg-security] use dta middleware
+2018-09-06 19:05:19,717 INFO 16064 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:19,734 INFO 16064 [egg:core] dump config after load, 7ms
+2018-09-06 19:05:19,784 INFO 16064 [egg-watcher:app] watcher start success
+2018-09-06 19:05:19,816 INFO 16064 [egg:core] dump config after ready, 7ms
+2018-09-06 19:05:20,902 INFO 1180 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:20,943 INFO 1180 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:20,943 INFO 1180 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:21,396 INFO 1180 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:21,400 INFO 1180 [egg-security] use csrf middleware
+2018-09-06 19:05:21,401 INFO 1180 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:21,402 INFO 1180 [egg-security] use noopen middleware
+2018-09-06 19:05:21,403 INFO 1180 [egg-security] use nosniff middleware
+2018-09-06 19:05:21,404 INFO 1180 [egg-security] use xssProtection middleware
+2018-09-06 19:05:21,405 INFO 1180 [egg-security] use xframe middleware
+2018-09-06 19:05:21,405 INFO 1180 [egg-security] use dta middleware
+2018-09-06 19:05:21,405 INFO 1180 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:21,422 INFO 1180 [egg:core] dump config after load, 7ms
+2018-09-06 19:05:21,471 INFO 1180 [egg-watcher:app] watcher start success
+2018-09-06 19:05:21,502 INFO 1180 [egg:core] dump config after ready, 8ms
+2018-09-06 19:05:23,949 INFO 15964 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:24,003 INFO 15964 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:24,003 INFO 15964 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:24,490 INFO 15964 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:24,494 INFO 15964 [egg-security] use csrf middleware
+2018-09-06 19:05:24,496 INFO 15964 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:24,497 INFO 15964 [egg-security] use noopen middleware
+2018-09-06 19:05:24,498 INFO 15964 [egg-security] use nosniff middleware
+2018-09-06 19:05:24,498 INFO 15964 [egg-security] use xssProtection middleware
+2018-09-06 19:05:24,499 INFO 15964 [egg-security] use xframe middleware
+2018-09-06 19:05:24,499 INFO 15964 [egg-security] use dta middleware
+2018-09-06 19:05:24,499 INFO 15964 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:24,523 INFO 15964 [egg:core] dump config after load, 12ms
+2018-09-06 19:05:24,562 INFO 15964 [egg-watcher:app] watcher start success
+2018-09-06 19:05:24,603 INFO 15964 [egg:core] dump config after ready, 8ms
+2018-09-06 19:05:39,187 INFO 7364 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:39,229 INFO 7364 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:39,229 INFO 7364 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:39,692 INFO 7364 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:39,697 INFO 7364 [egg-security] use csrf middleware
+2018-09-06 19:05:39,699 INFO 7364 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:39,699 INFO 7364 [egg-security] use noopen middleware
+2018-09-06 19:05:39,701 INFO 7364 [egg-security] use nosniff middleware
+2018-09-06 19:05:39,701 INFO 7364 [egg-security] use xssProtection middleware
+2018-09-06 19:05:39,702 INFO 7364 [egg-security] use xframe middleware
+2018-09-06 19:05:39,702 INFO 7364 [egg-security] use dta middleware
+2018-09-06 19:05:39,702 INFO 7364 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:39,724 INFO 7364 [egg:core] dump config after load, 7ms
+2018-09-06 19:05:39,761 INFO 7364 [egg-watcher:app] watcher start success
+2018-09-06 19:05:39,793 INFO 7364 [egg:core] dump config after ready, 8ms
+2018-09-06 19:05:41,123 INFO 9128 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:41,167 INFO 9128 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:41,168 INFO 9128 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:41,685 INFO 9128 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:41,689 INFO 9128 [egg-security] use csrf middleware
+2018-09-06 19:05:41,691 INFO 9128 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:41,691 INFO 9128 [egg-security] use noopen middleware
+2018-09-06 19:05:41,693 INFO 9128 [egg-security] use nosniff middleware
+2018-09-06 19:05:41,693 INFO 9128 [egg-security] use xssProtection middleware
+2018-09-06 19:05:41,694 INFO 9128 [egg-security] use xframe middleware
+2018-09-06 19:05:41,694 INFO 9128 [egg-security] use dta middleware
+2018-09-06 19:05:41,694 INFO 9128 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:41,717 INFO 9128 [egg:core] dump config after load, 7ms
+2018-09-06 19:05:41,752 INFO 9128 [egg-watcher:app] watcher start success
+2018-09-06 19:05:41,783 INFO 9128 [egg:core] dump config after ready, 7ms
+2018-09-06 19:05:43,857 INFO 9128 [egg-view-nunjucks] loading templates from ["E:\\AutoForm\\AutoFormServer\\app\\view"]
+2018-09-06 19:05:53,162 INFO 1172 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:05:53,203 INFO 1172 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:05:53,203 INFO 1172 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:05:53,654 INFO 1172 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:05:53,658 INFO 1172 [egg-security] use csrf middleware
+2018-09-06 19:05:53,659 INFO 1172 [egg-security] use methodnoallow middleware
+2018-09-06 19:05:53,660 INFO 1172 [egg-security] use noopen middleware
+2018-09-06 19:05:53,661 INFO 1172 [egg-security] use nosniff middleware
+2018-09-06 19:05:53,661 INFO 1172 [egg-security] use xssProtection middleware
+2018-09-06 19:05:53,662 INFO 1172 [egg-security] use xframe middleware
+2018-09-06 19:05:53,663 INFO 1172 [egg-security] use dta middleware
+2018-09-06 19:05:53,663 INFO 1172 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:05:53,681 INFO 1172 [egg:core] dump config after load, 7ms
+2018-09-06 19:05:53,727 INFO 1172 [egg-watcher:app] watcher start success
+2018-09-06 19:05:53,760 INFO 1172 [egg:core] dump config after ready, 8ms
+2018-09-06 19:06:38,592 INFO 8960 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:06:38,633 INFO 8960 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:06:38,633 INFO 8960 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:06:39,077 INFO 8960 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:06:39,081 INFO 8960 [egg-security] use csrf middleware
+2018-09-06 19:06:39,082 INFO 8960 [egg-security] use methodnoallow middleware
+2018-09-06 19:06:39,083 INFO 8960 [egg-security] use noopen middleware
+2018-09-06 19:06:39,084 INFO 8960 [egg-security] use nosniff middleware
+2018-09-06 19:06:39,085 INFO 8960 [egg-security] use xssProtection middleware
+2018-09-06 19:06:39,085 INFO 8960 [egg-security] use xframe middleware
+2018-09-06 19:06:39,086 INFO 8960 [egg-security] use dta middleware
+2018-09-06 19:06:39,086 INFO 8960 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:06:39,103 INFO 8960 [egg:core] dump config after load, 7ms
+2018-09-06 19:06:39,153 INFO 8960 [egg-watcher:app] watcher start success
+2018-09-06 19:06:39,184 INFO 8960 [egg:core] dump config after ready, 8ms
+2018-09-06 19:18:08,571 INFO 15520 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:08,618 INFO 15520 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:08,618 INFO 15520 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:09,081 INFO 15520 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:09,086 INFO 15520 [egg-security] use csrf middleware
+2018-09-06 19:18:09,088 INFO 15520 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:09,088 INFO 15520 [egg-security] use noopen middleware
+2018-09-06 19:18:09,089 INFO 15520 [egg-security] use nosniff middleware
+2018-09-06 19:18:09,090 INFO 15520 [egg-security] use xssProtection middleware
+2018-09-06 19:18:09,091 INFO 15520 [egg-security] use xframe middleware
+2018-09-06 19:18:09,091 INFO 15520 [egg-security] use dta middleware
+2018-09-06 19:18:09,091 INFO 15520 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:09,111 INFO 15520 [egg:core] dump config after load, 7ms
+2018-09-06 19:18:09,155 INFO 15520 [egg-watcher:app] watcher start success
+2018-09-06 19:18:09,188 INFO 15520 [egg:core] dump config after ready, 7ms
+2018-09-06 19:18:10,288 INFO 15696 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:10,329 INFO 15696 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:10,329 INFO 15696 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:10,779 INFO 15696 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:10,784 INFO 15696 [egg-security] use csrf middleware
+2018-09-06 19:18:10,785 INFO 15696 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:10,786 INFO 15696 [egg-security] use noopen middleware
+2018-09-06 19:18:10,787 INFO 15696 [egg-security] use nosniff middleware
+2018-09-06 19:18:10,788 INFO 15696 [egg-security] use xssProtection middleware
+2018-09-06 19:18:10,788 INFO 15696 [egg-security] use xframe middleware
+2018-09-06 19:18:10,789 INFO 15696 [egg-security] use dta middleware
+2018-09-06 19:18:10,789 INFO 15696 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:10,807 INFO 15696 [egg:core] dump config after load, 7ms
+2018-09-06 19:18:10,853 INFO 15696 [egg-watcher:app] watcher start success
+2018-09-06 19:18:10,884 INFO 15696 [egg:core] dump config after ready, 7ms
+2018-09-06 19:18:13,017 INFO 6788 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:13,068 INFO 6788 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:13,069 INFO 6788 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:13,584 INFO 6788 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:13,588 INFO 6788 [egg-security] use csrf middleware
+2018-09-06 19:18:13,589 INFO 6788 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:13,590 INFO 6788 [egg-security] use noopen middleware
+2018-09-06 19:18:13,591 INFO 6788 [egg-security] use nosniff middleware
+2018-09-06 19:18:13,592 INFO 6788 [egg-security] use xssProtection middleware
+2018-09-06 19:18:13,592 INFO 6788 [egg-security] use xframe middleware
+2018-09-06 19:18:13,593 INFO 6788 [egg-security] use dta middleware
+2018-09-06 19:18:13,593 INFO 6788 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:13,610 INFO 6788 [egg:core] dump config after load, 7ms
+2018-09-06 19:18:13,659 INFO 6788 [egg-watcher:app] watcher start success
+2018-09-06 19:18:13,692 INFO 6788 [egg:core] dump config after ready, 8ms
+2018-09-06 19:18:15,059 INFO 14540 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:15,102 INFO 14540 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:15,102 INFO 14540 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:15,569 INFO 14540 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:15,575 INFO 14540 [egg-security] use csrf middleware
+2018-09-06 19:18:15,576 INFO 14540 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:15,577 INFO 14540 [egg-security] use noopen middleware
+2018-09-06 19:18:15,578 INFO 14540 [egg-security] use nosniff middleware
+2018-09-06 19:18:15,578 INFO 14540 [egg-security] use xssProtection middleware
+2018-09-06 19:18:15,579 INFO 14540 [egg-security] use xframe middleware
+2018-09-06 19:18:15,579 INFO 14540 [egg-security] use dta middleware
+2018-09-06 19:18:15,579 INFO 14540 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:15,599 INFO 14540 [egg:core] dump config after load, 7ms
+2018-09-06 19:18:15,641 INFO 14540 [egg-watcher:app] watcher start success
+2018-09-06 19:18:15,673 INFO 14540 [egg:core] dump config after ready, 8ms
+2018-09-06 19:18:23,074 INFO 14320 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:23,115 INFO 14320 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:23,116 INFO 14320 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:23,567 INFO 14320 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:23,572 INFO 14320 [egg-security] use csrf middleware
+2018-09-06 19:18:23,573 INFO 14320 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:23,574 INFO 14320 [egg-security] use noopen middleware
+2018-09-06 19:18:23,575 INFO 14320 [egg-security] use nosniff middleware
+2018-09-06 19:18:23,576 INFO 14320 [egg-security] use xssProtection middleware
+2018-09-06 19:18:23,576 INFO 14320 [egg-security] use xframe middleware
+2018-09-06 19:18:23,577 INFO 14320 [egg-security] use dta middleware
+2018-09-06 19:18:23,577 INFO 14320 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:23,595 INFO 14320 [egg:core] dump config after load, 7ms
+2018-09-06 19:18:23,644 INFO 14320 [egg-watcher:app] watcher start success
+2018-09-06 19:18:23,678 INFO 14320 [egg:core] dump config after ready, 7ms
+2018-09-06 19:18:42,883 INFO 15772 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:18:42,924 INFO 15772 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:18:42,924 INFO 15772 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:18:43,449 INFO 15772 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:18:43,454 INFO 15772 [egg-security] use csrf middleware
+2018-09-06 19:18:43,456 INFO 15772 [egg-security] use methodnoallow middleware
+2018-09-06 19:18:43,456 INFO 15772 [egg-security] use noopen middleware
+2018-09-06 19:18:43,457 INFO 15772 [egg-security] use nosniff middleware
+2018-09-06 19:18:43,458 INFO 15772 [egg-security] use xssProtection middleware
+2018-09-06 19:18:43,459 INFO 15772 [egg-security] use xframe middleware
+2018-09-06 19:18:43,459 INFO 15772 [egg-security] use dta middleware
+2018-09-06 19:18:43,459 INFO 15772 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:18:43,480 INFO 15772 [egg:core] dump config after load, 8ms
+2018-09-06 19:18:43,527 INFO 15772 [egg-watcher:app] watcher start success
+2018-09-06 19:18:43,559 INFO 15772 [egg:core] dump config after ready, 8ms
+2018-09-06 19:19:02,683 INFO 15132 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:19:02,724 INFO 15132 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:19:02,724 INFO 15132 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:19:03,226 INFO 15132 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:19:03,231 INFO 15132 [egg-security] use csrf middleware
+2018-09-06 19:19:03,233 INFO 15132 [egg-security] use methodnoallow middleware
+2018-09-06 19:19:03,233 INFO 15132 [egg-security] use noopen middleware
+2018-09-06 19:19:03,241 INFO 15132 [egg-security] use nosniff middleware
+2018-09-06 19:19:03,242 INFO 15132 [egg-security] use xssProtection middleware
+2018-09-06 19:19:03,243 INFO 15132 [egg-security] use xframe middleware
+2018-09-06 19:19:03,244 INFO 15132 [egg-security] use dta middleware
+2018-09-06 19:19:03,244 INFO 15132 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:19:03,263 INFO 15132 [egg:core] dump config after load, 7ms
+2018-09-06 19:19:03,309 INFO 15132 [egg-watcher:app] watcher start success
+2018-09-06 19:19:03,346 INFO 15132 [egg:core] dump config after ready, 11ms
+2018-09-06 19:19:04,421 INFO 15308 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:19:04,463 INFO 15308 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:19:04,463 INFO 15308 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:19:04,912 INFO 15308 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:19:04,918 INFO 15308 [egg-security] use csrf middleware
+2018-09-06 19:19:04,919 INFO 15308 [egg-security] use methodnoallow middleware
+2018-09-06 19:19:04,920 INFO 15308 [egg-security] use noopen middleware
+2018-09-06 19:19:04,921 INFO 15308 [egg-security] use nosniff middleware
+2018-09-06 19:19:04,922 INFO 15308 [egg-security] use xssProtection middleware
+2018-09-06 19:19:04,922 INFO 15308 [egg-security] use xframe middleware
+2018-09-06 19:19:04,923 INFO 15308 [egg-security] use dta middleware
+2018-09-06 19:19:04,923 INFO 15308 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:19:04,941 INFO 15308 [egg:core] dump config after load, 7ms
+2018-09-06 19:19:04,989 INFO 15308 [egg-watcher:app] watcher start success
+2018-09-06 19:19:05,020 INFO 15308 [egg:core] dump config after ready, 7ms
+2018-09-06 19:20:58,162 INFO 13416 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:20:58,204 INFO 13416 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:20:58,204 INFO 13416 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:20:58,681 INFO 13416 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:20:58,685 INFO 13416 [egg-security] use csrf middleware
+2018-09-06 19:20:58,687 INFO 13416 [egg-security] use methodnoallow middleware
+2018-09-06 19:20:58,688 INFO 13416 [egg-security] use noopen middleware
+2018-09-06 19:20:58,689 INFO 13416 [egg-security] use nosniff middleware
+2018-09-06 19:20:58,689 INFO 13416 [egg-security] use xssProtection middleware
+2018-09-06 19:20:58,690 INFO 13416 [egg-security] use xframe middleware
+2018-09-06 19:20:58,690 INFO 13416 [egg-security] use dta middleware
+2018-09-06 19:20:58,690 INFO 13416 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:20:58,708 INFO 13416 [egg:core] dump config after load, 7ms
+2018-09-06 19:20:58,754 INFO 13416 [egg-watcher:app] watcher start success
+2018-09-06 19:20:58,785 INFO 13416 [egg:core] dump config after ready, 7ms
+2018-09-06 19:29:03,905 INFO 15036 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:29:03,959 INFO 15036 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:29:03,959 INFO 15036 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:29:04,468 INFO 15036 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:29:04,472 INFO 15036 [egg-security] use csrf middleware
+2018-09-06 19:29:04,474 INFO 15036 [egg-security] use methodnoallow middleware
+2018-09-06 19:29:04,474 INFO 15036 [egg-security] use noopen middleware
+2018-09-06 19:29:04,476 INFO 15036 [egg-security] use nosniff middleware
+2018-09-06 19:29:04,476 INFO 15036 [egg-security] use xssProtection middleware
+2018-09-06 19:29:04,477 INFO 15036 [egg-security] use xframe middleware
+2018-09-06 19:29:04,477 INFO 15036 [egg-security] use dta middleware
+2018-09-06 19:29:04,477 INFO 15036 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:29:04,504 INFO 15036 [egg:core] dump config after load, 7ms
+2018-09-06 19:29:04,542 INFO 15036 [egg-watcher:app] watcher start success
+2018-09-06 19:29:04,580 INFO 15036 [egg:core] dump config after ready, 9ms
+2018-09-06 19:32:58,106 INFO 11676 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:32:58,150 INFO 11676 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:32:58,150 INFO 11676 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:32:58,629 INFO 11676 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:32:58,633 INFO 11676 [egg-security] use csrf middleware
+2018-09-06 19:32:58,635 INFO 11676 [egg-security] use methodnoallow middleware
+2018-09-06 19:32:58,635 INFO 11676 [egg-security] use noopen middleware
+2018-09-06 19:32:58,637 INFO 11676 [egg-security] use nosniff middleware
+2018-09-06 19:32:58,637 INFO 11676 [egg-security] use xssProtection middleware
+2018-09-06 19:32:58,638 INFO 11676 [egg-security] use xframe middleware
+2018-09-06 19:32:58,638 INFO 11676 [egg-security] use dta middleware
+2018-09-06 19:32:58,638 INFO 11676 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:32:58,657 INFO 11676 [egg:core] dump config after load, 8ms
+2018-09-06 19:32:58,711 INFO 11676 [egg-watcher:app] watcher start success
+2018-09-06 19:32:58,744 INFO 11676 [egg:core] dump config after ready, 8ms
+2018-09-06 19:33:01,656 INFO 14924 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:33:01,699 INFO 14924 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:33:01,699 INFO 14924 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:33:02,181 INFO 14924 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:33:02,187 INFO 14924 [egg-security] use csrf middleware
+2018-09-06 19:33:02,189 INFO 14924 [egg-security] use methodnoallow middleware
+2018-09-06 19:33:02,189 INFO 14924 [egg-security] use noopen middleware
+2018-09-06 19:33:02,191 INFO 14924 [egg-security] use nosniff middleware
+2018-09-06 19:33:02,192 INFO 14924 [egg-security] use xssProtection middleware
+2018-09-06 19:33:02,192 INFO 14924 [egg-security] use xframe middleware
+2018-09-06 19:33:02,193 INFO 14924 [egg-security] use dta middleware
+2018-09-06 19:33:02,193 INFO 14924 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:33:02,223 INFO 14924 [egg:core] dump config after load, 17ms
+2018-09-06 19:33:02,265 INFO 14924 [egg-watcher:app] watcher start success
+2018-09-06 19:33:02,307 INFO 14924 [egg:core] dump config after ready, 11ms
+2018-09-06 19:33:13,214 INFO 13944 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:33:13,266 INFO 13944 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:33:13,266 INFO 13944 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:33:13,768 INFO 13944 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:33:13,773 INFO 13944 [egg-security] use csrf middleware
+2018-09-06 19:33:13,775 INFO 13944 [egg-security] use methodnoallow middleware
+2018-09-06 19:33:13,776 INFO 13944 [egg-security] use noopen middleware
+2018-09-06 19:33:13,777 INFO 13944 [egg-security] use nosniff middleware
+2018-09-06 19:33:13,777 INFO 13944 [egg-security] use xssProtection middleware
+2018-09-06 19:33:13,778 INFO 13944 [egg-security] use xframe middleware
+2018-09-06 19:33:13,779 INFO 13944 [egg-security] use dta middleware
+2018-09-06 19:33:13,779 INFO 13944 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:33:13,802 INFO 13944 [egg:core] dump config after load, 12ms
+2018-09-06 19:33:13,839 INFO 13944 [egg-watcher:app] watcher start success
+2018-09-06 19:33:13,873 INFO 13944 [egg:core] dump config after ready, 10ms
+2018-09-06 19:33:37,878 INFO 9088 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:33:37,921 INFO 9088 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:33:37,921 INFO 9088 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:33:38,403 INFO 9088 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:33:38,408 INFO 9088 [egg-security] use csrf middleware
+2018-09-06 19:33:38,410 INFO 9088 [egg-security] use methodnoallow middleware
+2018-09-06 19:33:38,410 INFO 9088 [egg-security] use noopen middleware
+2018-09-06 19:33:38,412 INFO 9088 [egg-security] use nosniff middleware
+2018-09-06 19:33:38,413 INFO 9088 [egg-security] use xssProtection middleware
+2018-09-06 19:33:38,413 INFO 9088 [egg-security] use xframe middleware
+2018-09-06 19:33:38,414 INFO 9088 [egg-security] use dta middleware
+2018-09-06 19:33:38,414 INFO 9088 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:33:38,438 INFO 9088 [egg:core] dump config after load, 13ms
+2018-09-06 19:33:38,476 INFO 9088 [egg-watcher:app] watcher start success
+2018-09-06 19:33:38,510 INFO 9088 [egg:core] dump config after ready, 9ms
+2018-09-06 19:33:51,557 INFO 16256 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:33:51,624 INFO 16256 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:33:51,624 INFO 16256 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:33:52,229 INFO 16256 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:33:52,234 INFO 16256 [egg-security] use csrf middleware
+2018-09-06 19:33:52,235 INFO 16256 [egg-security] use methodnoallow middleware
+2018-09-06 19:33:52,236 INFO 16256 [egg-security] use noopen middleware
+2018-09-06 19:33:52,237 INFO 16256 [egg-security] use nosniff middleware
+2018-09-06 19:33:52,238 INFO 16256 [egg-security] use xssProtection middleware
+2018-09-06 19:33:52,238 INFO 16256 [egg-security] use xframe middleware
+2018-09-06 19:33:52,239 INFO 16256 [egg-security] use dta middleware
+2018-09-06 19:33:52,239 INFO 16256 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:33:52,262 INFO 16256 [egg:core] dump config after load, 7ms
+2018-09-06 19:33:52,303 INFO 16256 [egg-watcher:app] watcher start success
+2018-09-06 19:33:52,337 INFO 16256 [egg:core] dump config after ready, 8ms
+2018-09-06 19:33:58,126 INFO 7812 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:33:58,171 INFO 7812 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:33:58,171 INFO 7812 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:33:58,650 INFO 7812 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:33:58,654 INFO 7812 [egg-security] use csrf middleware
+2018-09-06 19:33:58,656 INFO 7812 [egg-security] use methodnoallow middleware
+2018-09-06 19:33:58,656 INFO 7812 [egg-security] use noopen middleware
+2018-09-06 19:33:58,658 INFO 7812 [egg-security] use nosniff middleware
+2018-09-06 19:33:58,658 INFO 7812 [egg-security] use xssProtection middleware
+2018-09-06 19:33:58,659 INFO 7812 [egg-security] use xframe middleware
+2018-09-06 19:33:58,660 INFO 7812 [egg-security] use dta middleware
+2018-09-06 19:33:58,660 INFO 7812 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:33:58,684 INFO 7812 [egg:core] dump config after load, 7ms
+2018-09-06 19:33:58,724 INFO 7812 [egg-watcher:app] watcher start success
+2018-09-06 19:33:58,759 INFO 7812 [egg:core] dump config after ready, 9ms
+2018-09-06 19:34:01,936 INFO 14216 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:01,980 INFO 14216 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:01,980 INFO 14216 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:02,475 INFO 14216 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:02,481 INFO 14216 [egg-security] use csrf middleware
+2018-09-06 19:34:02,483 INFO 14216 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:02,483 INFO 14216 [egg-security] use noopen middleware
+2018-09-06 19:34:02,485 INFO 14216 [egg-security] use nosniff middleware
+2018-09-06 19:34:02,485 INFO 14216 [egg-security] use xssProtection middleware
+2018-09-06 19:34:02,486 INFO 14216 [egg-security] use xframe middleware
+2018-09-06 19:34:02,487 INFO 14216 [egg-security] use dta middleware
+2018-09-06 19:34:02,487 INFO 14216 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:02,510 INFO 14216 [egg:core] dump config after load, 7ms
+2018-09-06 19:34:02,549 INFO 14216 [egg-watcher:app] watcher start success
+2018-09-06 19:34:02,596 INFO 14216 [egg:core] dump config after ready, 12ms
+2018-09-06 19:34:05,652 INFO 15632 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:05,694 INFO 15632 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:05,694 INFO 15632 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:06,222 INFO 15632 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:06,227 INFO 15632 [egg-security] use csrf middleware
+2018-09-06 19:34:06,229 INFO 15632 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:06,229 INFO 15632 [egg-security] use noopen middleware
+2018-09-06 19:34:06,232 INFO 15632 [egg-security] use nosniff middleware
+2018-09-06 19:34:06,233 INFO 15632 [egg-security] use xssProtection middleware
+2018-09-06 19:34:06,234 INFO 15632 [egg-security] use xframe middleware
+2018-09-06 19:34:06,234 INFO 15632 [egg-security] use dta middleware
+2018-09-06 19:34:06,234 INFO 15632 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:06,258 INFO 15632 [egg:core] dump config after load, 7ms
+2018-09-06 19:34:06,298 INFO 15632 [egg-watcher:app] watcher start success
+2018-09-06 19:34:06,340 INFO 15632 [egg:core] dump config after ready, 8ms
+2018-09-06 19:34:09,858 INFO 15940 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:09,904 INFO 15940 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:09,904 INFO 15940 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:10,387 INFO 15940 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:10,392 INFO 15940 [egg-security] use csrf middleware
+2018-09-06 19:34:10,394 INFO 15940 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:10,394 INFO 15940 [egg-security] use noopen middleware
+2018-09-06 19:34:10,396 INFO 15940 [egg-security] use nosniff middleware
+2018-09-06 19:34:10,396 INFO 15940 [egg-security] use xssProtection middleware
+2018-09-06 19:34:10,397 INFO 15940 [egg-security] use xframe middleware
+2018-09-06 19:34:10,398 INFO 15940 [egg-security] use dta middleware
+2018-09-06 19:34:10,398 INFO 15940 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:10,417 INFO 15940 [egg:core] dump config after load, 8ms
+2018-09-06 19:34:10,463 INFO 15940 [egg-watcher:app] watcher start success
+2018-09-06 19:34:10,497 INFO 15940 [egg:core] dump config after ready, 9ms
+2018-09-06 19:34:16,879 INFO 9056 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:16,927 INFO 9056 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:16,927 INFO 9056 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:17,415 INFO 9056 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:17,419 INFO 9056 [egg-security] use csrf middleware
+2018-09-06 19:34:17,421 INFO 9056 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:17,421 INFO 9056 [egg-security] use noopen middleware
+2018-09-06 19:34:17,423 INFO 9056 [egg-security] use nosniff middleware
+2018-09-06 19:34:17,423 INFO 9056 [egg-security] use xssProtection middleware
+2018-09-06 19:34:17,424 INFO 9056 [egg-security] use xframe middleware
+2018-09-06 19:34:17,424 INFO 9056 [egg-security] use dta middleware
+2018-09-06 19:34:17,425 INFO 9056 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:17,442 INFO 9056 [egg:core] dump config after load, 7ms
+2018-09-06 19:34:17,501 INFO 9056 [egg-watcher:app] watcher start success
+2018-09-06 19:34:17,534 INFO 9056 [egg:core] dump config after ready, 8ms
+2018-09-06 19:34:18,782 INFO 8084 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:18,840 INFO 8084 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:18,840 INFO 8084 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:19,356 INFO 8084 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:19,363 INFO 8084 [egg-security] use csrf middleware
+2018-09-06 19:34:19,365 INFO 8084 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:19,366 INFO 8084 [egg-security] use noopen middleware
+2018-09-06 19:34:19,368 INFO 8084 [egg-security] use nosniff middleware
+2018-09-06 19:34:19,369 INFO 8084 [egg-security] use xssProtection middleware
+2018-09-06 19:34:19,369 INFO 8084 [egg-security] use xframe middleware
+2018-09-06 19:34:19,370 INFO 8084 [egg-security] use dta middleware
+2018-09-06 19:34:19,370 INFO 8084 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:19,399 INFO 8084 [egg:core] dump config after load, 13ms
+2018-09-06 19:34:19,482 INFO 8084 [egg-watcher:app] watcher start success
+2018-09-06 19:34:19,538 INFO 8084 [egg:core] dump config after ready, 16ms
+2018-09-06 19:34:22,999 INFO 14848 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:23,055 INFO 14848 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:23,056 INFO 14848 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:23,538 INFO 14848 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:23,543 INFO 14848 [egg-security] use csrf middleware
+2018-09-06 19:34:23,545 INFO 14848 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:23,546 INFO 14848 [egg-security] use noopen middleware
+2018-09-06 19:34:23,548 INFO 14848 [egg-security] use nosniff middleware
+2018-09-06 19:34:23,548 INFO 14848 [egg-security] use xssProtection middleware
+2018-09-06 19:34:23,549 INFO 14848 [egg-security] use xframe middleware
+2018-09-06 19:34:23,549 INFO 14848 [egg-security] use dta middleware
+2018-09-06 19:34:23,549 INFO 14848 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:23,570 INFO 14848 [egg:core] dump config after load, 9ms
+2018-09-06 19:34:23,620 INFO 14848 [egg-watcher:app] watcher start success
+2018-09-06 19:34:23,655 INFO 14848 [egg:core] dump config after ready, 10ms
+2018-09-06 19:34:26,089 INFO 14260 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:26,144 INFO 14260 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:26,144 INFO 14260 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:26,675 INFO 14260 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:26,681 INFO 14260 [egg-security] use csrf middleware
+2018-09-06 19:34:26,682 INFO 14260 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:26,683 INFO 14260 [egg-security] use noopen middleware
+2018-09-06 19:34:26,684 INFO 14260 [egg-security] use nosniff middleware
+2018-09-06 19:34:26,685 INFO 14260 [egg-security] use xssProtection middleware
+2018-09-06 19:34:26,686 INFO 14260 [egg-security] use xframe middleware
+2018-09-06 19:34:26,687 INFO 14260 [egg-security] use dta middleware
+2018-09-06 19:34:26,689 INFO 14260 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:26,716 INFO 14260 [egg:core] dump config after load, 11ms
+2018-09-06 19:34:26,766 INFO 14260 [egg-watcher:app] watcher start success
+2018-09-06 19:34:26,801 INFO 14260 [egg:core] dump config after ready, 8ms
+2018-09-06 19:34:27,965 INFO 15420 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:28,012 INFO 15420 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:28,012 INFO 15420 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:28,531 INFO 15420 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:28,536 INFO 15420 [egg-security] use csrf middleware
+2018-09-06 19:34:28,538 INFO 15420 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:28,538 INFO 15420 [egg-security] use noopen middleware
+2018-09-06 19:34:28,540 INFO 15420 [egg-security] use nosniff middleware
+2018-09-06 19:34:28,540 INFO 15420 [egg-security] use xssProtection middleware
+2018-09-06 19:34:28,543 INFO 15420 [egg-security] use xframe middleware
+2018-09-06 19:34:28,543 INFO 15420 [egg-security] use dta middleware
+2018-09-06 19:34:28,543 INFO 15420 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:28,578 INFO 15420 [egg:core] dump config after load, 12ms
+2018-09-06 19:34:28,634 INFO 15420 [egg-watcher:app] watcher start success
+2018-09-06 19:34:28,679 INFO 15420 [egg:core] dump config after ready, 10ms
+2018-09-06 19:34:31,997 INFO 14956 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:32,037 INFO 14956 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:32,037 INFO 14956 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:32,531 INFO 14956 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:32,536 INFO 14956 [egg-security] use csrf middleware
+2018-09-06 19:34:32,537 INFO 14956 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:32,538 INFO 14956 [egg-security] use noopen middleware
+2018-09-06 19:34:32,539 INFO 14956 [egg-security] use nosniff middleware
+2018-09-06 19:34:32,540 INFO 14956 [egg-security] use xssProtection middleware
+2018-09-06 19:34:32,541 INFO 14956 [egg-security] use xframe middleware
+2018-09-06 19:34:32,541 INFO 14956 [egg-security] use dta middleware
+2018-09-06 19:34:32,541 INFO 14956 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:32,562 INFO 14956 [egg:core] dump config after load, 8ms
+2018-09-06 19:34:32,611 INFO 14956 [egg-watcher:app] watcher start success
+2018-09-06 19:34:32,649 INFO 14956 [egg:core] dump config after ready, 9ms
+2018-09-06 19:34:35,288 INFO 14796 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:35,333 INFO 14796 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:35,333 INFO 14796 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:35,816 INFO 14796 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:35,820 INFO 14796 [egg-security] use csrf middleware
+2018-09-06 19:34:35,822 INFO 14796 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:35,822 INFO 14796 [egg-security] use noopen middleware
+2018-09-06 19:34:35,824 INFO 14796 [egg-security] use nosniff middleware
+2018-09-06 19:34:35,824 INFO 14796 [egg-security] use xssProtection middleware
+2018-09-06 19:34:35,825 INFO 14796 [egg-security] use xframe middleware
+2018-09-06 19:34:35,825 INFO 14796 [egg-security] use dta middleware
+2018-09-06 19:34:35,825 INFO 14796 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:35,843 INFO 14796 [egg:core] dump config after load, 8ms
+2018-09-06 19:34:35,895 INFO 14796 [egg-watcher:app] watcher start success
+2018-09-06 19:34:35,927 INFO 14796 [egg:core] dump config after ready, 8ms
+2018-09-06 19:34:38,948 INFO 12596 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:38,990 INFO 12596 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:38,990 INFO 12596 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:39,479 INFO 12596 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:39,483 INFO 12596 [egg-security] use csrf middleware
+2018-09-06 19:34:39,485 INFO 12596 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:39,486 INFO 12596 [egg-security] use noopen middleware
+2018-09-06 19:34:39,487 INFO 12596 [egg-security] use nosniff middleware
+2018-09-06 19:34:39,487 INFO 12596 [egg-security] use xssProtection middleware
+2018-09-06 19:34:39,488 INFO 12596 [egg-security] use xframe middleware
+2018-09-06 19:34:39,489 INFO 12596 [egg-security] use dta middleware
+2018-09-06 19:34:39,489 INFO 12596 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:39,508 INFO 12596 [egg:core] dump config after load, 7ms
+2018-09-06 19:34:39,554 INFO 12596 [egg-watcher:app] watcher start success
+2018-09-06 19:34:39,588 INFO 12596 [egg:core] dump config after ready, 9ms
+2018-09-06 19:34:42,707 INFO 8092 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:42,764 INFO 8092 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:42,764 INFO 8092 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:43,281 INFO 8092 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:43,287 INFO 8092 [egg-security] use csrf middleware
+2018-09-06 19:34:43,289 INFO 8092 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:43,290 INFO 8092 [egg-security] use noopen middleware
+2018-09-06 19:34:43,292 INFO 8092 [egg-security] use nosniff middleware
+2018-09-06 19:34:43,293 INFO 8092 [egg-security] use xssProtection middleware
+2018-09-06 19:34:43,293 INFO 8092 [egg-security] use xframe middleware
+2018-09-06 19:34:43,294 INFO 8092 [egg-security] use dta middleware
+2018-09-06 19:34:43,294 INFO 8092 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:43,321 INFO 8092 [egg:core] dump config after load, 10ms
+2018-09-06 19:34:43,398 INFO 8092 [egg-watcher:app] watcher start success
+2018-09-06 19:34:43,448 INFO 8092 [egg:core] dump config after ready, 11ms
+2018-09-06 19:34:45,469 INFO 11324 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:34:45,511 INFO 11324 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:34:45,512 INFO 11324 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:34:45,978 INFO 11324 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:34:45,982 INFO 11324 [egg-security] use csrf middleware
+2018-09-06 19:34:45,984 INFO 11324 [egg-security] use methodnoallow middleware
+2018-09-06 19:34:45,984 INFO 11324 [egg-security] use noopen middleware
+2018-09-06 19:34:45,986 INFO 11324 [egg-security] use nosniff middleware
+2018-09-06 19:34:45,986 INFO 11324 [egg-security] use xssProtection middleware
+2018-09-06 19:34:45,987 INFO 11324 [egg-security] use xframe middleware
+2018-09-06 19:34:45,987 INFO 11324 [egg-security] use dta middleware
+2018-09-06 19:34:45,987 INFO 11324 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:34:46,005 INFO 11324 [egg:core] dump config after load, 8ms
+2018-09-06 19:34:46,056 INFO 11324 [egg-watcher:app] watcher start success
+2018-09-06 19:34:46,091 INFO 11324 [egg:core] dump config after ready, 10ms
+2018-09-06 19:35:20,648 INFO 13632 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:35:20,703 INFO 13632 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:35:20,703 INFO 13632 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:35:21,228 INFO 13632 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:35:21,234 INFO 13632 [egg-security] use csrf middleware
+2018-09-06 19:35:21,235 INFO 13632 [egg-security] use methodnoallow middleware
+2018-09-06 19:35:21,236 INFO 13632 [egg-security] use noopen middleware
+2018-09-06 19:35:21,238 INFO 13632 [egg-security] use nosniff middleware
+2018-09-06 19:35:21,239 INFO 13632 [egg-security] use xssProtection middleware
+2018-09-06 19:35:21,240 INFO 13632 [egg-security] use xframe middleware
+2018-09-06 19:35:21,241 INFO 13632 [egg-security] use dta middleware
+2018-09-06 19:35:21,241 INFO 13632 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:35:21,277 INFO 13632 [egg:core] dump config after load, 18ms
+2018-09-06 19:35:21,328 INFO 13632 [egg-watcher:app] watcher start success
+2018-09-06 19:35:21,368 INFO 13632 [egg:core] dump config after ready, 12ms
+2018-09-06 19:35:30,517 INFO 13328 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:35:30,564 INFO 13328 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:35:30,564 INFO 13328 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:35:31,038 INFO 13328 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:35:31,044 INFO 13328 [egg-security] use csrf middleware
+2018-09-06 19:35:31,045 INFO 13328 [egg-security] use methodnoallow middleware
+2018-09-06 19:35:31,046 INFO 13328 [egg-security] use noopen middleware
+2018-09-06 19:35:31,047 INFO 13328 [egg-security] use nosniff middleware
+2018-09-06 19:35:31,048 INFO 13328 [egg-security] use xssProtection middleware
+2018-09-06 19:35:31,048 INFO 13328 [egg-security] use xframe middleware
+2018-09-06 19:35:31,049 INFO 13328 [egg-security] use dta middleware
+2018-09-06 19:35:31,049 INFO 13328 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:35:31,072 INFO 13328 [egg:core] dump config after load, 11ms
+2018-09-06 19:35:31,139 INFO 13328 [egg-watcher:app] watcher start success
+2018-09-06 19:35:31,176 INFO 13328 [egg:core] dump config after ready, 9ms
+2018-09-06 19:35:33,826 INFO 4820 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:35:33,868 INFO 4820 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:35:33,868 INFO 4820 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:35:34,349 INFO 4820 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:35:34,353 INFO 4820 [egg-security] use csrf middleware
+2018-09-06 19:35:34,355 INFO 4820 [egg-security] use methodnoallow middleware
+2018-09-06 19:35:34,355 INFO 4820 [egg-security] use noopen middleware
+2018-09-06 19:35:34,357 INFO 4820 [egg-security] use nosniff middleware
+2018-09-06 19:35:34,358 INFO 4820 [egg-security] use xssProtection middleware
+2018-09-06 19:35:34,358 INFO 4820 [egg-security] use xframe middleware
+2018-09-06 19:35:34,359 INFO 4820 [egg-security] use dta middleware
+2018-09-06 19:35:34,359 INFO 4820 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:35:34,379 INFO 4820 [egg:core] dump config after load, 10ms
+2018-09-06 19:35:34,430 INFO 4820 [egg-watcher:app] watcher start success
+2018-09-06 19:35:34,465 INFO 4820 [egg:core] dump config after ready, 9ms
+2018-09-06 19:36:05,575 INFO 8124 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:05,620 INFO 8124 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:05,620 INFO 8124 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:06,120 INFO 8124 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:06,126 INFO 8124 [egg-security] use csrf middleware
+2018-09-06 19:36:06,129 INFO 8124 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:06,129 INFO 8124 [egg-security] use noopen middleware
+2018-09-06 19:36:06,131 INFO 8124 [egg-security] use nosniff middleware
+2018-09-06 19:36:06,132 INFO 8124 [egg-security] use xssProtection middleware
+2018-09-06 19:36:06,133 INFO 8124 [egg-security] use xframe middleware
+2018-09-06 19:36:06,134 INFO 8124 [egg-security] use dta middleware
+2018-09-06 19:36:06,134 INFO 8124 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:06,163 INFO 8124 [egg:core] dump config after load, 13ms
+2018-09-06 19:36:06,228 INFO 8124 [egg-watcher:app] watcher start success
+2018-09-06 19:36:06,277 INFO 8124 [egg:core] dump config after ready, 12ms
+2018-09-06 19:36:08,369 INFO 13232 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:08,421 INFO 13232 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:08,421 INFO 13232 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:08,894 INFO 13232 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:08,899 INFO 13232 [egg-security] use csrf middleware
+2018-09-06 19:36:08,900 INFO 13232 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:08,901 INFO 13232 [egg-security] use noopen middleware
+2018-09-06 19:36:08,902 INFO 13232 [egg-security] use nosniff middleware
+2018-09-06 19:36:08,903 INFO 13232 [egg-security] use xssProtection middleware
+2018-09-06 19:36:08,903 INFO 13232 [egg-security] use xframe middleware
+2018-09-06 19:36:08,904 INFO 13232 [egg-security] use dta middleware
+2018-09-06 19:36:08,904 INFO 13232 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:08,925 INFO 13232 [egg:core] dump config after load, 8ms
+2018-09-06 19:36:08,973 INFO 13232 [egg-watcher:app] watcher start success
+2018-09-06 19:36:09,007 INFO 13232 [egg:core] dump config after ready, 10ms
+2018-09-06 19:36:18,766 INFO 1324 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:18,810 INFO 1324 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:18,810 INFO 1324 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:19,284 INFO 1324 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:19,288 INFO 1324 [egg-security] use csrf middleware
+2018-09-06 19:36:19,290 INFO 1324 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:19,290 INFO 1324 [egg-security] use noopen middleware
+2018-09-06 19:36:19,291 INFO 1324 [egg-security] use nosniff middleware
+2018-09-06 19:36:19,292 INFO 1324 [egg-security] use xssProtection middleware
+2018-09-06 19:36:19,293 INFO 1324 [egg-security] use xframe middleware
+2018-09-06 19:36:19,293 INFO 1324 [egg-security] use dta middleware
+2018-09-06 19:36:19,293 INFO 1324 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:19,316 INFO 1324 [egg:core] dump config after load, 7ms
+2018-09-06 19:36:19,341 INFO 1324 [egg-watcher:app] watcher start success
+2018-09-06 19:36:19,397 INFO 1324 [egg:core] dump config after ready, 8ms
+2018-09-06 19:36:33,320 INFO 628 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:33,364 INFO 628 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:33,364 INFO 628 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:33,875 INFO 628 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:33,880 INFO 628 [egg-security] use csrf middleware
+2018-09-06 19:36:33,882 INFO 628 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:33,882 INFO 628 [egg-security] use noopen middleware
+2018-09-06 19:36:33,884 INFO 628 [egg-security] use nosniff middleware
+2018-09-06 19:36:33,884 INFO 628 [egg-security] use xssProtection middleware
+2018-09-06 19:36:33,885 INFO 628 [egg-security] use xframe middleware
+2018-09-06 19:36:33,885 INFO 628 [egg-security] use dta middleware
+2018-09-06 19:36:33,886 INFO 628 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:33,905 INFO 628 [egg:core] dump config after load, 7ms
+2018-09-06 19:36:33,950 INFO 628 [egg-watcher:app] watcher start success
+2018-09-06 19:36:33,985 INFO 628 [egg:core] dump config after ready, 9ms
+2018-09-06 19:36:40,255 INFO 15748 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:40,310 INFO 15748 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:40,310 INFO 15748 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:40,792 INFO 15748 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:40,796 INFO 15748 [egg-security] use csrf middleware
+2018-09-06 19:36:40,798 INFO 15748 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:40,798 INFO 15748 [egg-security] use noopen middleware
+2018-09-06 19:36:40,800 INFO 15748 [egg-security] use nosniff middleware
+2018-09-06 19:36:40,800 INFO 15748 [egg-security] use xssProtection middleware
+2018-09-06 19:36:40,801 INFO 15748 [egg-security] use xframe middleware
+2018-09-06 19:36:40,801 INFO 15748 [egg-security] use dta middleware
+2018-09-06 19:36:40,801 INFO 15748 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:40,825 INFO 15748 [egg:core] dump config after load, 12ms
+2018-09-06 19:36:40,870 INFO 15748 [egg-watcher:app] watcher start success
+2018-09-06 19:36:40,905 INFO 15748 [egg:core] dump config after ready, 9ms
+2018-09-06 19:36:42,037 INFO 9364 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:36:42,081 INFO 9364 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:36:42,081 INFO 9364 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:36:42,571 INFO 9364 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:36:42,576 INFO 9364 [egg-security] use csrf middleware
+2018-09-06 19:36:42,578 INFO 9364 [egg-security] use methodnoallow middleware
+2018-09-06 19:36:42,578 INFO 9364 [egg-security] use noopen middleware
+2018-09-06 19:36:42,580 INFO 9364 [egg-security] use nosniff middleware
+2018-09-06 19:36:42,580 INFO 9364 [egg-security] use xssProtection middleware
+2018-09-06 19:36:42,581 INFO 9364 [egg-security] use xframe middleware
+2018-09-06 19:36:42,582 INFO 9364 [egg-security] use dta middleware
+2018-09-06 19:36:42,582 INFO 9364 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:36:42,605 INFO 9364 [egg:core] dump config after load, 8ms
+2018-09-06 19:36:42,643 INFO 9364 [egg-watcher:app] watcher start success
+2018-09-06 19:36:42,676 INFO 9364 [egg:core] dump config after ready, 8ms
+2018-09-06 19:37:17,397 INFO 4200 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:37:17,445 INFO 4200 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:37:17,445 INFO 4200 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:37:17,906 INFO 4200 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:37:17,911 INFO 4200 [egg-security] use csrf middleware
+2018-09-06 19:37:17,913 INFO 4200 [egg-security] use methodnoallow middleware
+2018-09-06 19:37:17,913 INFO 4200 [egg-security] use noopen middleware
+2018-09-06 19:37:17,915 INFO 4200 [egg-security] use nosniff middleware
+2018-09-06 19:37:17,916 INFO 4200 [egg-security] use xssProtection middleware
+2018-09-06 19:37:17,916 INFO 4200 [egg-security] use xframe middleware
+2018-09-06 19:37:17,917 INFO 4200 [egg-security] use dta middleware
+2018-09-06 19:37:17,917 INFO 4200 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:37:17,935 INFO 4200 [egg:core] dump config after load, 7ms
+2018-09-06 19:37:17,982 INFO 4200 [egg-watcher:app] watcher start success
+2018-09-06 19:37:18,014 INFO 4200 [egg:core] dump config after ready, 8ms
+2018-09-06 19:37:27,371 INFO 15536 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:37:27,414 INFO 15536 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:37:27,414 INFO 15536 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:37:27,895 INFO 15536 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:37:27,900 INFO 15536 [egg-security] use csrf middleware
+2018-09-06 19:37:27,901 INFO 15536 [egg-security] use methodnoallow middleware
+2018-09-06 19:37:27,902 INFO 15536 [egg-security] use noopen middleware
+2018-09-06 19:37:27,903 INFO 15536 [egg-security] use nosniff middleware
+2018-09-06 19:37:27,904 INFO 15536 [egg-security] use xssProtection middleware
+2018-09-06 19:37:27,904 INFO 15536 [egg-security] use xframe middleware
+2018-09-06 19:37:27,905 INFO 15536 [egg-security] use dta middleware
+2018-09-06 19:37:27,905 INFO 15536 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:37:27,926 INFO 15536 [egg:core] dump config after load, 9ms
+2018-09-06 19:37:27,980 INFO 15536 [egg-watcher:app] watcher start success
+2018-09-06 19:37:28,020 INFO 15536 [egg:core] dump config after ready, 14ms
+2018-09-06 19:38:10,077 INFO 13172 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:38:10,121 INFO 13172 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:38:10,121 INFO 13172 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:38:10,612 INFO 13172 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:38:10,617 INFO 13172 [egg-security] use csrf middleware
+2018-09-06 19:38:10,618 INFO 13172 [egg-security] use methodnoallow middleware
+2018-09-06 19:38:10,619 INFO 13172 [egg-security] use noopen middleware
+2018-09-06 19:38:10,620 INFO 13172 [egg-security] use nosniff middleware
+2018-09-06 19:38:10,621 INFO 13172 [egg-security] use xssProtection middleware
+2018-09-06 19:38:10,621 INFO 13172 [egg-security] use xframe middleware
+2018-09-06 19:38:10,622 INFO 13172 [egg-security] use dta middleware
+2018-09-06 19:38:10,622 INFO 13172 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:38:10,643 INFO 13172 [egg:core] dump config after load, 8ms
+2018-09-06 19:38:10,690 INFO 13172 [egg-watcher:app] watcher start success
+2018-09-06 19:38:10,724 INFO 13172 [egg:core] dump config after ready, 9ms
+2018-09-06 19:38:11,933 INFO 11716 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:38:11,984 INFO 11716 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:38:11,984 INFO 11716 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:38:12,582 INFO 11716 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:38:12,588 INFO 11716 [egg-security] use csrf middleware
+2018-09-06 19:38:12,591 INFO 11716 [egg-security] use methodnoallow middleware
+2018-09-06 19:38:12,592 INFO 11716 [egg-security] use noopen middleware
+2018-09-06 19:38:12,593 INFO 11716 [egg-security] use nosniff middleware
+2018-09-06 19:38:12,594 INFO 11716 [egg-security] use xssProtection middleware
+2018-09-06 19:38:12,594 INFO 11716 [egg-security] use xframe middleware
+2018-09-06 19:38:12,595 INFO 11716 [egg-security] use dta middleware
+2018-09-06 19:38:12,595 INFO 11716 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:38:12,613 INFO 11716 [egg:core] dump config after load, 8ms
+2018-09-06 19:38:12,675 INFO 11716 [egg-watcher:app] watcher start success
+2018-09-06 19:38:12,708 INFO 11716 [egg:core] dump config after ready, 9ms
+2018-09-06 19:38:14,070 INFO 11404 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:38:14,118 INFO 11404 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:38:14,118 INFO 11404 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:38:14,671 INFO 11404 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:38:14,675 INFO 11404 [egg-security] use csrf middleware
+2018-09-06 19:38:14,677 INFO 11404 [egg-security] use methodnoallow middleware
+2018-09-06 19:38:14,677 INFO 11404 [egg-security] use noopen middleware
+2018-09-06 19:38:14,678 INFO 11404 [egg-security] use nosniff middleware
+2018-09-06 19:38:14,679 INFO 11404 [egg-security] use xssProtection middleware
+2018-09-06 19:38:14,680 INFO 11404 [egg-security] use xframe middleware
+2018-09-06 19:38:14,680 INFO 11404 [egg-security] use dta middleware
+2018-09-06 19:38:14,680 INFO 11404 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:38:14,699 INFO 11404 [egg:core] dump config after load, 8ms
+2018-09-06 19:38:14,744 INFO 11404 [egg-watcher:app] watcher start success
+2018-09-06 19:38:14,777 INFO 11404 [egg:core] dump config after ready, 8ms
+2018-09-06 19:39:02,039 INFO 14260 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:39:02,082 INFO 14260 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:39:02,083 INFO 14260 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:39:02,569 INFO 14260 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:39:02,573 INFO 14260 [egg-security] use csrf middleware
+2018-09-06 19:39:02,575 INFO 14260 [egg-security] use methodnoallow middleware
+2018-09-06 19:39:02,575 INFO 14260 [egg-security] use noopen middleware
+2018-09-06 19:39:02,577 INFO 14260 [egg-security] use nosniff middleware
+2018-09-06 19:39:02,577 INFO 14260 [egg-security] use xssProtection middleware
+2018-09-06 19:39:02,578 INFO 14260 [egg-security] use xframe middleware
+2018-09-06 19:39:02,578 INFO 14260 [egg-security] use dta middleware
+2018-09-06 19:39:02,578 INFO 14260 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:39:02,602 INFO 14260 [egg:core] dump config after load, 6ms
+2018-09-06 19:39:02,639 INFO 14260 [egg-watcher:app] watcher start success
+2018-09-06 19:39:02,672 INFO 14260 [egg:core] dump config after ready, 9ms
+2018-09-06 19:39:17,144 INFO 7472 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:39:17,201 INFO 7472 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:39:17,201 INFO 7472 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:39:17,714 INFO 7472 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:39:17,719 INFO 7472 [egg-security] use csrf middleware
+2018-09-06 19:39:17,721 INFO 7472 [egg-security] use methodnoallow middleware
+2018-09-06 19:39:17,722 INFO 7472 [egg-security] use noopen middleware
+2018-09-06 19:39:17,723 INFO 7472 [egg-security] use nosniff middleware
+2018-09-06 19:39:17,724 INFO 7472 [egg-security] use xssProtection middleware
+2018-09-06 19:39:17,724 INFO 7472 [egg-security] use xframe middleware
+2018-09-06 19:39:17,725 INFO 7472 [egg-security] use dta middleware
+2018-09-06 19:39:17,725 INFO 7472 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:39:17,747 INFO 7472 [egg:core] dump config after load, 9ms
+2018-09-06 19:39:17,791 INFO 7472 [egg-watcher:app] watcher start success
+2018-09-06 19:39:17,836 INFO 7472 [egg:core] dump config after ready, 8ms
+2018-09-06 19:39:35,701 INFO 13104 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:39:35,751 INFO 13104 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:39:35,751 INFO 13104 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:39:36,321 INFO 13104 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:39:36,327 INFO 13104 [egg-security] use csrf middleware
+2018-09-06 19:39:36,329 INFO 13104 [egg-security] use methodnoallow middleware
+2018-09-06 19:39:36,330 INFO 13104 [egg-security] use noopen middleware
+2018-09-06 19:39:36,332 INFO 13104 [egg-security] use nosniff middleware
+2018-09-06 19:39:36,332 INFO 13104 [egg-security] use xssProtection middleware
+2018-09-06 19:39:36,333 INFO 13104 [egg-security] use xframe middleware
+2018-09-06 19:39:36,333 INFO 13104 [egg-security] use dta middleware
+2018-09-06 19:39:36,333 INFO 13104 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:39:36,364 INFO 13104 [egg:core] dump config after load, 8ms
+2018-09-06 19:39:36,409 INFO 13104 [egg-watcher:app] watcher start success
+2018-09-06 19:39:36,451 INFO 13104 [egg:core] dump config after ready, 9ms
+2018-09-06 19:39:39,044 INFO 14804 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:39:39,089 INFO 14804 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:39:39,089 INFO 14804 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:39:39,770 INFO 14804 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:39:39,777 INFO 14804 [egg-security] use csrf middleware
+2018-09-06 19:39:39,779 INFO 14804 [egg-security] use methodnoallow middleware
+2018-09-06 19:39:39,780 INFO 14804 [egg-security] use noopen middleware
+2018-09-06 19:39:39,783 INFO 14804 [egg-security] use nosniff middleware
+2018-09-06 19:39:39,784 INFO 14804 [egg-security] use xssProtection middleware
+2018-09-06 19:39:39,784 INFO 14804 [egg-security] use xframe middleware
+2018-09-06 19:39:39,785 INFO 14804 [egg-security] use dta middleware
+2018-09-06 19:39:39,785 INFO 14804 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:39:39,819 INFO 14804 [egg:core] dump config after load, 13ms
+2018-09-06 19:39:39,868 INFO 14804 [egg-watcher:app] watcher start success
+2018-09-06 19:39:39,914 INFO 14804 [egg:core] dump config after ready, 8ms
+2018-09-06 19:39:41,053 INFO 1972 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:39:41,097 INFO 1972 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:39:41,097 INFO 1972 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:39:41,591 INFO 1972 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:39:41,595 INFO 1972 [egg-security] use csrf middleware
+2018-09-06 19:39:41,597 INFO 1972 [egg-security] use methodnoallow middleware
+2018-09-06 19:39:41,597 INFO 1972 [egg-security] use noopen middleware
+2018-09-06 19:39:41,599 INFO 1972 [egg-security] use nosniff middleware
+2018-09-06 19:39:41,599 INFO 1972 [egg-security] use xssProtection middleware
+2018-09-06 19:39:41,600 INFO 1972 [egg-security] use xframe middleware
+2018-09-06 19:39:41,606 INFO 1972 [egg-security] use dta middleware
+2018-09-06 19:39:41,607 INFO 1972 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:39:41,626 INFO 1972 [egg:core] dump config after load, 8ms
+2018-09-06 19:39:41,664 INFO 1972 [egg-watcher:app] watcher start success
+2018-09-06 19:39:41,696 INFO 1972 [egg:core] dump config after ready, 8ms
+2018-09-06 19:40:05,521 INFO 9596 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:40:05,564 INFO 9596 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:40:05,564 INFO 9596 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:40:06,062 INFO 9596 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:40:06,066 INFO 9596 [egg-security] use csrf middleware
+2018-09-06 19:40:06,068 INFO 9596 [egg-security] use methodnoallow middleware
+2018-09-06 19:40:06,068 INFO 9596 [egg-security] use noopen middleware
+2018-09-06 19:40:06,070 INFO 9596 [egg-security] use nosniff middleware
+2018-09-06 19:40:06,071 INFO 9596 [egg-security] use xssProtection middleware
+2018-09-06 19:40:06,072 INFO 9596 [egg-security] use xframe middleware
+2018-09-06 19:40:06,073 INFO 9596 [egg-security] use dta middleware
+2018-09-06 19:40:06,073 INFO 9596 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:40:06,101 INFO 9596 [egg:core] dump config after load, 7ms
+2018-09-06 19:40:06,151 INFO 9596 [egg-watcher:app] watcher start success
+2018-09-06 19:40:06,192 INFO 9596 [egg:core] dump config after ready, 11ms
+2018-09-06 19:40:22,412 INFO 9596 [egg-view-nunjucks] loading templates from ["E:\\AutoForm\\AutoFormServer\\app\\view"]
+2018-09-06 19:40:51,713 INFO 8780 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:40:51,757 INFO 8780 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:40:51,757 INFO 8780 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:40:52,434 INFO 8780 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:40:52,441 INFO 8780 [egg-security] use csrf middleware
+2018-09-06 19:40:52,443 INFO 8780 [egg-security] use methodnoallow middleware
+2018-09-06 19:40:52,444 INFO 8780 [egg-security] use noopen middleware
+2018-09-06 19:40:52,447 INFO 8780 [egg-security] use nosniff middleware
+2018-09-06 19:40:52,448 INFO 8780 [egg-security] use xssProtection middleware
+2018-09-06 19:40:52,449 INFO 8780 [egg-security] use xframe middleware
+2018-09-06 19:40:52,457 INFO 8780 [egg-security] use dta middleware
+2018-09-06 19:40:52,458 INFO 8780 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:40:52,482 INFO 8780 [egg:core] dump config after load, 10ms
+2018-09-06 19:40:52,534 INFO 8780 [egg-watcher:app] watcher start success
+2018-09-06 19:40:52,578 INFO 8780 [egg:core] dump config after ready, 13ms
+2018-09-06 19:40:57,614 INFO 16276 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:40:57,673 INFO 16276 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:40:57,673 INFO 16276 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:40:58,332 INFO 16276 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:40:58,338 INFO 16276 [egg-security] use csrf middleware
+2018-09-06 19:40:58,340 INFO 16276 [egg-security] use methodnoallow middleware
+2018-09-06 19:40:58,340 INFO 16276 [egg-security] use noopen middleware
+2018-09-06 19:40:58,342 INFO 16276 [egg-security] use nosniff middleware
+2018-09-06 19:40:58,343 INFO 16276 [egg-security] use xssProtection middleware
+2018-09-06 19:40:58,344 INFO 16276 [egg-security] use xframe middleware
+2018-09-06 19:40:58,344 INFO 16276 [egg-security] use dta middleware
+2018-09-06 19:40:58,344 INFO 16276 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:40:58,368 INFO 16276 [egg:core] dump config after load, 13ms
+2018-09-06 19:40:58,405 INFO 16276 [egg-watcher:app] watcher start success
+2018-09-06 19:40:58,438 INFO 16276 [egg:core] dump config after ready, 9ms
+2018-09-06 19:42:12,285 INFO 8792 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-06 19:42:12,329 INFO 8792 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js
+2018-09-06 19:42:12,329 INFO 8792 [egg-schedule]: register schedule E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js
+2018-09-06 19:42:12,823 INFO 8792 [egg-static] starting static serve /public/ -> E:\AutoForm\AutoFormServer\app\public
+2018-09-06 19:42:12,827 INFO 8792 [egg-security] use csrf middleware
+2018-09-06 19:42:12,828 INFO 8792 [egg-security] use methodnoallow middleware
+2018-09-06 19:42:12,829 INFO 8792 [egg-security] use noopen middleware
+2018-09-06 19:42:12,831 INFO 8792 [egg-security] use nosniff middleware
+2018-09-06 19:42:12,831 INFO 8792 [egg-security] use xssProtection middleware
+2018-09-06 19:42:12,832 INFO 8792 [egg-security] use xframe middleware
+2018-09-06 19:42:12,832 INFO 8792 [egg-security] use dta middleware
+2018-09-06 19:42:12,832 INFO 8792 [egg-security] compose 7 middlewares into one security middleware
+2018-09-06 19:42:12,850 INFO 8792 [egg:core] dump config after load, 8ms
+2018-09-06 19:42:12,902 INFO 8792 [egg-watcher:app] watcher start success
+2018-09-06 19:42:12,934 INFO 8792 [egg:core] dump config after ready, 8ms

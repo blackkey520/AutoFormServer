@@ -4,7 +4,7 @@ exports.keys = 'autoform';
 // mount middleware
 exports.middleware = [ 'robot', 'errorHandler', 'apiWrapper' ];
 (exports.errorHandler = {
-  match: '/api',
+  match: '/',
 });
 // middleware config
 (exports.robot = {

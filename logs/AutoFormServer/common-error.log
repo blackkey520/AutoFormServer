@@ -1,0 +1,9 @@
+2018-09-06 19:38:14,577 ERROR 3992 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:657:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3992
+hostname: DESKTOP-VHCVKFJ
+
