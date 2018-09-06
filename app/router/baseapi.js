@@ -5,7 +5,7 @@
  */
 module.exports = app => {
   const { controller } = app;
-  //根目录
+  // 根目录
   app.get('/', controller.home.index);
   // 数据库配置
   app.get('/db/list', controller.cfgDb.list);
