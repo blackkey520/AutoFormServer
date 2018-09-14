@@ -6,5 +6,5 @@
  */
 module.exports = app => {
   require('./router/autoformapi')(app);
-  require('./router/baseapi')(app);
+  require('./router/afconfigapi')(app);
 };
