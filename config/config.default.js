@@ -16,6 +16,17 @@ exports.view = {
     '.tpl': 'nunjucks',
   },
 };
+exports.security = {
+  ignore: '/autoform/',
+  domainWhiteList: [
+    'http://192.168.31.73:8000',
+  ],
+  methodnoallow: { enable: false },
+  csrf: {
+    enable: false,
+    ignoreJSON: true,
+  },
+};
 exports.sequelize = {
   dialect: 'mysql', // support: mysql, mariadb, postgres, mssql
   database: 'db_author',

@@ -13,4 +13,9 @@ module.exports = app => {
   app.post('/autoform/config/db/create', controller.cfgDb.create);
   app.post('/autoform/config/db/update/:id', controller.cfgDb.update);
   app.get('/autoform/config/db/del/:id', controller.cfgDb.del);
+  app.get('/autoform/config/datasource/list/:dbid/:searchtext', controller.cfgSource.list);
+  app.get('/autoform/config/datasource/single/:id', controller.cfgSource.getsingle);
+  app.post('/autoform/config/datasource/create', controller.cfgSource.create);
+  app.post('/autoform/config/datasource/update/:id', controller.cfgSource.update);
+  app.get('/autoform/config/datasource/del/:id', controller.cfgSource.del);
 };

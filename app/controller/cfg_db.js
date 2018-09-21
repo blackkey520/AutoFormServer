@@ -37,7 +37,7 @@ class Cfg_DbController extends Controller {
   // 修改数据库配置
   async update() {
     const ctx = this.ctx;
-    const result = await ctx.service.cfgDb.update({ DB_KEY: ctx.query.id, updates: ctx.request.body });
+    const result = await ctx.service.cfgDb.update({ DB_KEY: ctx.params.id, updates: ctx.request.body });
     ctx.body = {
       success: true,
       data: result,
@@ -47,7 +47,8 @@ class Cfg_DbController extends Controller {
   // 删除数据库配置
   async del() {
     const ctx = this.ctx;
-    const result = await ctx.service.cfgDb.del(ctx.query.id);
+    debugger;
+    const result = await ctx.service.cfgDb.del(ctx.params.id);
     ctx.body = {
       success: true,
       data: result,

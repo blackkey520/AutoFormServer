@@ -29,7 +29,11 @@ class Cfg_Db extends Service {
   }
 
   async del(id) {
+    debugger;
+    console.log(id);
+    
     const cfg_db = await this.ctx.model.CfgDb.findById(id);
+    console.log(cfg_db);
     if (!cfg_db) {
       this.ctx.throw(404, 'cfg_db not found');
     }
