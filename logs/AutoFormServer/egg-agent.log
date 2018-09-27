@@ -511,3 +511,23 @@
 2018-09-18 15:52:41,139 INFO 22100 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
 2018-09-18 15:52:41,541 INFO 22100 [egg:core] dump config after load, 5ms
 2018-09-18 15:52:41,616 INFO 22100 [egg:core] dump config after ready, 7ms
+2018-09-26 13:24:51,141 INFO 26652 [model] [35mSELECT VERSION() as `version`[39m (3ms)
+2018-09-26 13:24:51,153 INFO 26652 [model] [35mSELECT 1+1 AS result[39m (1ms)
+2018-09-26 13:24:50,577 INFO 26652 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-09-26 13:24:51,087 INFO 26652 [egg:core] dump config after load, 6ms
+2018-09-26 13:24:51,164 INFO 26652 [egg:core] dump config after ready, 8ms
+2018-09-26 13:48:09,074 INFO 7404 [model] [35mSELECT VERSION() as `version`[39m (3ms)
+2018-09-26 13:48:09,088 INFO 7404 [model] [35mSELECT 1+1 AS result[39m (2ms)
+2018-09-26 13:48:08,502 INFO 7404 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-09-26 13:48:09,010 INFO 7404 [egg:core] dump config after load, 7ms
+2018-09-26 13:48:09,104 INFO 7404 [egg:core] dump config after ready, 12ms
+2018-09-26 13:51:44,092 INFO 27332 [model] [35mSELECT VERSION() as `version`[39m (3ms)
+2018-09-26 13:51:44,106 INFO 27332 [model] [35mSELECT 1+1 AS result[39m (1ms)
+2018-09-26 13:51:43,632 INFO 27332 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-09-26 13:51:44,039 INFO 27332 [egg:core] dump config after load, 5ms
+2018-09-26 13:51:44,119 INFO 27332 [egg:core] dump config after ready, 9ms
+2018-09-26 19:27:13,323 INFO 25436 [model] [35mSELECT VERSION() as `version`[39m (4ms)
+2018-09-26 19:27:13,336 INFO 25436 [model] [35mSELECT 1+1 AS result[39m (1ms)
+2018-09-26 19:27:12,767 INFO 25436 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-09-26 19:27:13,258 INFO 25436 [egg:core] dump config after load, 7ms
+2018-09-26 19:27:13,352 INFO 25436 [egg:core] dump config after ready, 11ms

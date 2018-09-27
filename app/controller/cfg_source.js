@@ -10,7 +10,12 @@ class Cfg_SourceController extends Controller {
   async list() {
     const ctx = this.ctx;
     const { Op } = ctx.app.Sequelize;
-    const result = await ctx.service.cfgTable.list({ where: ctx.params.dbid, DT_NAME: { [Op.like]: ctx.params.searchtext } });
+    let where = { DT_CONN: ctx.params.dbid };
+    if (ctx.params.searchtext !== 'null')
+    {
+      where.DT_NAME = { [Op.like]: ctx.params.searchtext };
+    }
+    const result = await ctx.service.cfgTable.list({ where });
     ctx.body = {
       success: true,
       data: result,

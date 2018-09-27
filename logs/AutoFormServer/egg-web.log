@@ -1229,3 +1229,43 @@
 2018-09-18 15:52:43,362 INFO 23568 [egg-security] compose 5 middlewares into one security middleware
 2018-09-18 15:52:43,384 INFO 23568 [egg:core] dump config after load, 9ms
 2018-09-18 15:52:43,464 INFO 23568 [egg:core] dump config after ready, 8ms
+2018-09-26 13:24:52,544 INFO 22152 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-26 13:24:52,732 WARN 22152 [egg-security] Please set `match` or `ignore` on sub config
+2018-09-26 13:24:52,734 INFO 22152 [egg-security] use noopen middleware
+2018-09-26 13:24:52,736 INFO 22152 [egg-security] use nosniff middleware
+2018-09-26 13:24:52,736 INFO 22152 [egg-security] use xssProtection middleware
+2018-09-26 13:24:52,737 INFO 22152 [egg-security] use xframe middleware
+2018-09-26 13:24:52,738 INFO 22152 [egg-security] use dta middleware
+2018-09-26 13:24:52,738 INFO 22152 [egg-security] compose 5 middlewares into one security middleware
+2018-09-26 13:24:52,759 INFO 22152 [egg:core] dump config after load, 9ms
+2018-09-26 13:24:52,848 INFO 22152 [egg:core] dump config after ready, 9ms
+2018-09-26 13:48:10,509 INFO 22232 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-26 13:48:10,699 WARN 22232 [egg-security] Please set `match` or `ignore` on sub config
+2018-09-26 13:48:10,701 INFO 22232 [egg-security] use noopen middleware
+2018-09-26 13:48:10,703 INFO 22232 [egg-security] use nosniff middleware
+2018-09-26 13:48:10,704 INFO 22232 [egg-security] use xssProtection middleware
+2018-09-26 13:48:10,704 INFO 22232 [egg-security] use xframe middleware
+2018-09-26 13:48:10,705 INFO 22232 [egg-security] use dta middleware
+2018-09-26 13:48:10,705 INFO 22232 [egg-security] compose 5 middlewares into one security middleware
+2018-09-26 13:48:10,729 INFO 22232 [egg:core] dump config after load, 9ms
+2018-09-26 13:48:10,813 INFO 22232 [egg:core] dump config after ready, 8ms
+2018-09-26 13:51:45,543 INFO 11576 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-26 13:51:45,726 WARN 11576 [egg-security] Please set `match` or `ignore` on sub config
+2018-09-26 13:51:45,728 INFO 11576 [egg-security] use noopen middleware
+2018-09-26 13:51:45,729 INFO 11576 [egg-security] use nosniff middleware
+2018-09-26 13:51:45,730 INFO 11576 [egg-security] use xssProtection middleware
+2018-09-26 13:51:45,730 INFO 11576 [egg-security] use xframe middleware
+2018-09-26 13:51:45,731 INFO 11576 [egg-security] use dta middleware
+2018-09-26 13:51:45,731 INFO 11576 [egg-security] compose 5 middlewares into one security middleware
+2018-09-26 13:51:45,749 INFO 11576 [egg:core] dump config after load, 7ms
+2018-09-26 13:51:45,840 INFO 11576 [egg:core] dump config after ready, 10ms
+2018-09-26 19:27:14,820 INFO 21540 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-26 19:27:15,029 WARN 21540 [egg-security] Please set `match` or `ignore` on sub config
+2018-09-26 19:27:15,032 INFO 21540 [egg-security] use noopen middleware
+2018-09-26 19:27:15,033 INFO 21540 [egg-security] use nosniff middleware
+2018-09-26 19:27:15,034 INFO 21540 [egg-security] use xssProtection middleware
+2018-09-26 19:27:15,035 INFO 21540 [egg-security] use xframe middleware
+2018-09-26 19:27:15,035 INFO 21540 [egg-security] use dta middleware
+2018-09-26 19:27:15,036 INFO 21540 [egg-security] compose 5 middlewares into one security middleware
+2018-09-26 19:27:15,058 INFO 21540 [egg:core] dump config after load, 9ms
+2018-09-26 19:27:15,140 INFO 21540 [egg:core] dump config after ready, 10ms

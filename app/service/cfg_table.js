@@ -4,6 +4,7 @@ const Service = require('egg').Service;
 
 class Cfg_Table extends Service {
   async list({ where = {}, order_by = 'GUID', order = 'ASC' }) {
+    debugger;
     return this.ctx.model.CfgTable.findAll({
       where,
       order: [[ order_by, order.toUpperCase() ]],
