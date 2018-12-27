@@ -4,3 +4,11 @@
 2018-09-06 18:41:11,284 INFO 15956 [Timer] E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-09-07 00:00:01.000
 2018-09-06 19:29:04,592 INFO 3992 [Timer] E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-09-07 00:00:00.000
 2018-09-06 19:29:04,593 INFO 3992 [Timer] E:\AutoForm\AutoFormServer\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-09-07 00:00:01.000
+2018-12-27 18:25:58,741 INFO 3640 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 20041261ms at 2018-12-28 00:00:00.002
+2018-12-27 18:25:58,742 INFO 3640 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 20042259ms at 2018-12-28 00:00:01.001
+2018-12-27 18:25:58,385 INFO 3641 [egg-schedule]: register schedule /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-12-27 18:25:58,385 INFO 3641 [egg-schedule]: register schedule /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-27 18:36:50,749 INFO 3685 [egg-schedule]: register schedule /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-12-27 18:36:50,749 INFO 3685 [egg-schedule]: register schedule /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-27 18:36:51,096 INFO 3684 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19388909ms at 2018-12-28 00:00:00.005
+2018-12-27 18:36:51,096 INFO 3684 [Timer] /Users/lee/P_Product/AutoForm/AutoFormServer/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19389904ms at 2018-12-28 00:00:01.000

@@ -531,3 +531,27 @@
 2018-09-26 19:27:12,767 INFO 25436 [egg:logger] init all loggers with options: {"dir":"E:\\AutoForm\\AutoFormServer\\logs\\AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
 2018-09-26 19:27:13,258 INFO 25436 [egg:core] dump config after load, 7ms
 2018-09-26 19:27:13,352 INFO 25436 [egg:core] dump config after ready, 11ms
+2018-12-27 18:25:57,698 INFO 3640 [model] [35mSELECT VERSION() as `version`[39m (11ms)
+2018-12-27 18:25:57,709 INFO 3640 [model] [35mSELECT 1+1 AS result[39m (3ms)
+2018-12-27 18:25:57,293 INFO 3640 [egg:logger] init all loggers with options: {"dir":"/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-27 18:25:57,554 INFO 3640 [egg:core] dump config after load, 4ms
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: ["/Users/lee/P_Product/AutoForm/AutoFormServer/app","/Users/lee/P_Product/AutoForm/AutoFormServer/config","/Users/lee/P_Product/AutoForm/AutoFormServer/mocks","/Users/lee/P_Product/AutoForm/AutoFormServer/mocks_proxy","/Users/lee/P_Product/AutoForm/AutoFormServer/app.js"]
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/app"
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/config"
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/mocks"
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/mocks_proxy"
+2018-12-27 18:25:57,582 INFO 3640 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/app.js"
+2018-12-27 18:25:57,583 INFO 3640 [egg-watcher:agent] watcher start success
+2018-12-27 18:25:57,717 INFO 3640 [egg:core] dump config after ready, 6ms
+2018-12-27 18:36:50,082 INFO 3684 [model] [35mSELECT VERSION() as `version`[39m (3ms)
+2018-12-27 18:36:50,092 INFO 3684 [model] [35mSELECT 1+1 AS result[39m (1ms)
+2018-12-27 18:36:49,755 INFO 3684 [egg:logger] init all loggers with options: {"dir":"/Users/lee/P_Product/AutoForm/AutoFormServer/logs/AutoFormServer","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"AutoFormServer-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-27 18:36:50,006 INFO 3684 [egg:core] dump config after load, 5ms
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: ["/Users/lee/P_Product/AutoForm/AutoFormServer/app","/Users/lee/P_Product/AutoForm/AutoFormServer/config","/Users/lee/P_Product/AutoForm/AutoFormServer/mocks","/Users/lee/P_Product/AutoForm/AutoFormServer/mocks_proxy","/Users/lee/P_Product/AutoForm/AutoFormServer/app.js"]
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/app"
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/config"
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/mocks"
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/mocks_proxy"
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher] Start watching: "/Users/lee/P_Product/AutoForm/AutoFormServer/app.js"
+2018-12-27 18:36:50,030 INFO 3684 [egg-watcher:agent] watcher start success
+2018-12-27 18:36:50,102 INFO 3684 [egg:core] dump config after ready, 8ms
